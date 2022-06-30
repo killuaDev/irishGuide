@@ -2,6 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+@font-face {
+	font-family: "Fira Code";
+	src: url("../FiraCode-VariableFont_wght.ttf");
+}
 body {
-  font-family: "Times New Roman", Times, serif !important;
+  font-family: "Fira Code", monospace;
 }
