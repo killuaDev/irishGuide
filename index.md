@@ -9,7 +9,7 @@ The reasons for this is that Irish has "initial sound changes", where the sound 
 It's not necessary to learn every situation in which these changes are triggered, rather you should recognise the terms and the sound changes that are made, and as you learn something which causes them, you'll understand what it means.
 
 ## *Séimhiú* - Lenition
-Lenition, known as *séimhiú* in Irish, means softening and is a sound change which can happen to most consonants in Irish, where they go from one sound to another. In the first example, [*bó*](https://www.teanglann.ie/CanM/b%C3%B3.mp3) becomes [*a bhó*](http://fuaimeanna.ie/sounds/a_bhoo_i2_s2.mp3).
+Lenition, known as *séimhiú* in Irish, means softening and is a sound change which can happen to most consonants in Irish, where they go from one sound to another. In the first example, [*bó*](https://www.teanglann.ie/CanM/b%C3%B3.mp3){:target="_blank"} becomes [*a bhó*](http://fuaimeanna.ie/sounds/a_bhoo_i2_s2.mp3).
 This is represented in writing by adding a *h* after the consonant. 
 Some consonants don't have lenited forms in the [[lárchanúint]], notably the sounds made by:
 + l, n, r, h
