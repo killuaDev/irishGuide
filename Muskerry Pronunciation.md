@@ -101,6 +101,7 @@
 	+ éan
 	+ téad
 	+ scéal
+
 ### Consonants
 + /p/ - /pʹ/
 	+ paca - peaca
@@ -143,6 +144,7 @@
 > The initial bullets are the "default" rules.
 > Everything listed under the initial bullet point is an exception or additional rule.
 > Lower rules take precedence over higher ones
+
 + á, ái, eái, eá == /ɑː/
 + aoi, í, ío, aío, uí, aí, uío == /iː/
 	+ aoi == /eː/ in certain monosyllabic words
@@ -388,10 +390,12 @@
 > if an o is before any of them you'll get /ou/
 > if ui is before any you'll get /iː/
 > with anything else you'll get /əi/
+
 + The above applies to stressed vowels, for unstressed vowels:
 	+ a, ea, io, o, u == /ə/
 		+ capall, báisteach, conas
 	+ ai, e, ei, i, oi, ui == /i/
+
 ### Consonants
 + A consonant or group of consonants is slender if:
 	+ It is at the beginning of a word followed by an i, í, e, or é
@@ -506,6 +510,7 @@
 	+ síolrach -> /sʹiːrəx/
 + slender rn -> /rhnʹ/
 	+ toirneach -> /toːrhnʹəx/
+
 ### Stress
 + Primary stresss is indicated with /'/ secondary stress is indicated with /,/
 	+ Unless otherwise marked, primary stress is on the first syllable.
@@ -599,6 +604,7 @@
 	+ aneas
 	+ amháin
 	+ amú
+
 ### Pronunciation of sentences
 + Vowel ellision
 	+ When unstressed vowels come together, only one is pronounced
@@ -607,6 +613,7 @@
 	+ When an unstressed vowel follows a long vowel, only the long vowel is pronounced
 		+ thóg sé an mála -> /hoːg sʹeːn mɑːlə/
 		+ tá a fhios agat -> /tɑːs ə'gut/
+
 ### Exceptions with Verb Forms
 + -eadh or -adh at the end of verbal nouns == /ə/
 	+ briseadh -> /bʹrʹisʹə/
@@ -650,6 +657,7 @@
 		+ bhailíomair -> /vɑ'lʹiːmirʹ/
 		+ ceanófaí -> /kʹa'noːfiː/
 		+ ceannóidh -> /kʹa'noːgʹ/
+
 ### Exceptions with Grammatical Features
 + The article
 	+ an is pronounced /ən/
@@ -704,6 +712,7 @@
 	+ an (before verbs) == /ə(n)/
 	+ is == /is/
 	+ ba == /bə/
+
 
 ### General Exceptions
 + craorag, (historically croidhearg which became croidhreag) -> /crəirʹək/
