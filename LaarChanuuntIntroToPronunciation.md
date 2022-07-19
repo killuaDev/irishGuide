@@ -39,7 +39,7 @@ When I refer to flattening your lips I mean making the gap between them long and
 	+ The following sounds appear similar to english v and f, but they are pronounced with the two lips instead of the lips and the teeth 
 	+ /v/
 		+ as in *[bhán](http://fuaimeanna.ie/sounds/bhaan_i3_s3.mp3){:target="_blank"}* (white)
-		+ This sound is similar to the English sound 'v', except the lips are closer together and the back of the tongue is raised slightly.
+		+ This sound is similar to the English sound 'w', except the lips are closer together and the back of the tongue is raised slightly.
 	+ /vʹ/
 		+ as in *[bhí](http://fuaimeanna.ie/sounds/bhii_i1_s1.mp3){:target="_blank"}* (was)
 		+ This sound is similar to the English sound 'v', except it's made with the lips alone, which are flattened and the middle of the tongue is raised slightly.
@@ -48,7 +48,7 @@ When I refer to flattening your lips I mean making the gap between them long and
 		+ This sound is similar to the English sound 'f', except it's made with the lips alone, which are rounded and pushed forward, and the back of the tongue is raised slightly.
 	+ /fʹ/
 		+ as in *[fill](http://fuaimeanna.ie/sounds/fill_i3_s3.mp3){:target="_blank"}* (return)
-		+  This sound is similar to the English sound 'v', except it's made with the lips alone, which are flattened and the middle of the tongue is raised slightly.
+		+  This sound is similar to the English sound 'f', except it's made with the lips alone, which are flattened and the middle of the tongue is raised slightly.
 + 2.
 	+ /d/
 		+ as in *[dó](http://fuaimeanna.ie/sounds/doo_i2_s2.mp3){:target="_blank"}* (to him)
@@ -66,7 +66,7 @@ When I refer to flattening your lips I mean making the gap between them long and
 		+ as in *[naoi](http://fuaimeanna.ie/sounds/naoi_i3_s3.mp3){:target="_blank"}* (nine)
 		+ To make this sound, put your mouth in the position of an 'n' in the word 'nut', press your tongue towards the top of your teeth (where they meet the roof) and raise the back of your tongue slightly 
 	+ /nʹ/
-		+ as in *[ní](http://fuaimeanna.ie/sounds/ni_i1_s1.mp3){:target="_blank"}* (not)
+		+ as in *[ní](http://fuaimeanna.ie/sounds/nii_i1_s1.mp3){:target="_blank"}* (not)
 		+ To make this sound, put your mouth in the position of an 'n' in the word 'nick', and raise the middle of your tongue slightly 
 	+ /l/
 		+ as in *[lón](http://fuaimeanna.ie/sounds/loon_i2_s2.mp3){:target="_blank"}* (lunch)
@@ -102,7 +102,7 @@ When I refer to flattening your lips I mean making the gap between them long and
 		+ To make this sound, try making a sound similar to the English "y" in "yes", and raising the middle of your tongue, enough that you can hear some friction. The lips are flattened slightly.
 	+ These next two sounds are often quite confusing to english speakers, as they are similar to the english "ng" sound in "sing" but can also occur at the start of words
 	+ /ŋ/
-		+ as in *[ra**ng**](https://www.teanglann.ie/CanC/rang.mp3){:target="_blank"}* (class)
+		+ as in [ra**ng**](https://www.teanglann.ie/CanC/rang.mp3) (class)
 		+ as in *[a **ng**ol](http://fuaimeanna.ie/sounds/a_ngol_i3_s3.mp3){:target="_blank"}* (their crying) 
 		+ This sound is similar to "ng" in "song" in English, but with the back of the tongue raised.
 	+ /ŋʹ/
@@ -129,6 +129,7 @@ When I refer to flattening your lips I mean making the gap between them long and
 		+ #TODO: ?? This sound is similar (perhaps surprisingly) to the 's' in 'treasure', except the middle of your tongue should be raised up towards the roof of your mouth.
 		+ This sound is similar to /r/ except the middle of the tongue is raised rather than the back creating some friction when this sound is made.
 + /h/ 
+	+ as in *[hata](https://www.teanglann.ie/CanM/hata.mp3){:target="_blank"}* (hat)
 	+ This consonant only has one form and it is pronounced the same as the english sound "h" in "hat" or "hit"
 
 ## Vowels
@@ -137,55 +138,55 @@ It's less practical to describe physically how to make vowel sounds, but you sho
 + Long (the ː symbol represents a longer sound)
 	+ /aː/
 		+ This sound is similar to the vowel in "call" in many Irish and English accents, you may not be used to the sound if you speak with a North American accent, but comes relatively easy with practice.
-		+ as in *cás*
-		+ as in *meán*
-		+ as in *cáis*
-		+ as in *meáin*
+		+ as in *[cás](https://www.teanglann.ie/CanM/c%C3%A1s.mp3){:target="_blank"}*
+		+ as in *[meán](https://www.teanglann.ie/CanC/me%C3%A1n.mp3){:target="_blank"}*
+		+ as in *[cáis](https://www.teanglann.ie/CanM/c%C3%A1is.mp3){:target="_blank"}*
+		+ as in *[meáin](http://fuaimeanna.ie/sounds/meaain_i2_s2.mp3){:target="_blank"}*
 	+ /eː/
 		+ This is a long sound, and not a combination of two vowels like the English "long A" that we mentioned earlier, this can be unusual for some English speakers but the sound itself is not difficult to mimic.
-		+ as in *Gael*
-		+ as in *céad*
-		+ as in *Gaeil*
-		+ as in *céim*
+		+ as in *[Gael](http://fuaimeanna.ie/sounds/gael_i2_s2.mp3){:target="_blank"}*
+		+ as in *[céad](http://fuaimeanna.ie/sounds/ceead_i1_s1.mp3){:target="_blank"}*
+		+ as in *[Gaeil](http://fuaimeanna.ie/sounds/gaeil_i2_s2.mp3){:target="_blank"}*
+		+ as in *[céim](https://www.teanglann.ie/CanU/c%C3%A9im.mp3){:target="_blank"}* 
 	+ /iː/
 		+ This sound will be quite familiar to most English speakers as it is quite close to the English "ee" sound
-		+ as in *saol*
-		+ as in *fíor*
-		+ as in *saoil*
-		+ as in *sín*
+		+ as in *[saol](https://www.teanglann.ie/CanC/saol.mp3){:target="_blank"}*
+		+ as in *[fíor](https://www.teanglann.ie/CanU/f%C3%ADor.mp3){:target="_blank"}*
+		+ as in *[saoil](https://www.teanglann.ie/CanU/saoil.mp3){:target="_blank"}*
+		+ as in *[sín](https://www.teanglann.ie/CanC/s%C3%ADn.mp3){:target="_blank"}*
 	+ /oː/ 
-		+ This sound is another one that English speakers may make a mistake with. In English there is often a combination of two vowels in the "long O". In Irish this is one long sound.
+		+ This sound is another one that English speakers may make a mistake with. In English there is often a combination of two vowels in the "long O" such as in "coat". In Irish this is one long sound.
 		+ as in *[lón](https://www.teanglann.ie/CanM/l%C3%B3n.mp3){:target="_blank"}*
-		+ as in *leon*
-		+ as in *lóin*
-		+ as in *leoin*
+		+ as in *[leon](https://www.teanglann.ie/CanC/leon.mp3){:target="_blank"}*
+		+ as in *[póit](http://fuaimeanna.ie/sounds/pooit_i3_s3.mp3){:target="_blank"}*
+		+ as in *[feoil](http://fuaimeanna.ie/sounds/feoil_i3_s3.mp3){:target="_blank"}*
 	+ /uː/ 
 		+ This sound is similar to the long "oo" sound in English, but it may be raised higher in your mouth than your normal English form (??)
 		+ as in *[cúl](https://www.teanglann.ie/CanC/c%C3%BAl.mp3){:target="_blank"}*
-		+ as in *diúl*
-		+ as in *cúil*
-		+ as in *ciúin*
+		+ as in *[diúl](https://www.teanglann.ie/CanC/di%C3%BAl.mp3){:target="_blank"}*
+		+ as in *[cúil](https://www.teanglann.ie/CanU/c%C3%BAil.mp3){:target="_blank"}*
+		+ as in *[ciúin](https://www.teanglann.ie/CanU/ci%C3%BAin.mp3){:target="_blank"}*
 + Short
 	+ /a/
 		+ This sound can be similar to the sounds in "cot" or "cat" #TODO: ehhh? lárchanúint doesn't distinguish these
-		+ as in *cad*
-		+ as in *cead*
-		+ as in *cait*
+		+ as in *[cad](http://fuaimeanna.ie/sounds/cad_i2_s2.mp3){:target="_blank"}*
+		+ as in *[cead](http://fuaimeanna.ie/sounds/cead_i2_s2.mp3){:target="_blank"}*
+		+ as in *[cait](http://fuaimeanna.ie/sounds/cait_i2_s2.mp3){:target="_blank"}*
 	+ /e/
 		+ This sound is like the short "e" in many dialects of english such as in "pet"
-		+ as in *geit*
-		+ as in *deis*
+		+ as in *[geit](https://www.teanglann.ie/CanC/geit.mp3){:target="_blank"}*
+		+ as in *[deis](https://www.teanglann.ie/CanC/deis.mp3){:target="_blank"}*
 	+ /i/
 		+ This sound is like the short "i" in many dialects of english such as in "pin"
-		+ as in *cuir*
-		+ as in *cinn*
+		+ as in *[cuir](http://fuaimeanna.ie/sounds/cuir_i3_s3.mp3){:target="_blank"}*
+		+ as in *[cinn](http://fuaimeanna.ie/sounds/cinn_i3_s3.mp3){:target="_blank"}*
 	+ /o/
 		+ This sound is similar to the English short "u" sound but is lower in the mouth
 		+ as in *[cos](http://fuaimeanna.ie/sounds/cos_i2_s2.mp3){:target="_blank"}*
-		+ as in *cois*
+		+ as in *[cois](http://fuaimeanna.ie/sounds/cois_i3_s3.mp3){:target="_blank"}*
 	+ /u/
 		+ This sound is similar to the English short "u" sound but is higher in the mouth, and is more rounded
-		+ as in *bun*
+		+ as in *[bun](http://fuaimeanna.ie/sounds/bun_i3_s3.mp3){:target="_blank"}*
 		+ as in *[triuf](http://fuaimeanna.ie/sounds/triuf_i2_s2.mp3){:target="_blank"}*
 	+ /ə/
 		+ This sound is actually quite common in English, it is a neutral vowel meaning your mouth is quite relaxed when you make it, it occurs in unstressed syllables when they're said quickly such as
@@ -215,24 +216,17 @@ It's less practical to describe physically how to make vowel sounds, but you sho
 Practice saying each of these sounds, paying attention to the recordings for any sounds you struggle with, don't worry if you can't get them yet, as pronunciation takes a lot of time to learn and perfect.
 
 Looking back to check any symbols you can't remember, try figuring out how these words sound, and then listen to the recordings to see if you were right.
-+ /sʹuːl/
-+ /kalʹiːnʹ/
-+ /dʹerʹ/
-+ /maːlə/
-+ /kad/
-+ /kʹoːl/
++ /sʹuːl/ ([listen](https://www.teanglann.ie/CanU/si%C3%BAl.mp3))
++ /kalʹiːnʹ/ ([listen](https://www.teanglann.ie/CanC/cail%C3%ADn.mp3))
++ /bʹerʹ/ ([listen](https://www.teanglann.ie/CanM/beir.mp3))
++ /maːlə/ ([listen](https://www.teanglann.ie/CanC/m%C3%A1la.mp3))
++ /kad/ ([listen](https://www.teanglann.ie/CanM/cad.mp3))
++ /kʹoːl/ ([listen](https://www.teanglann.ie/CanC/ceol.mp3))
 
 ## Some notes
 + At the moment I've kind of gone with the clearest sounding examples I can to show the sound, perhaps at the expense of ease or consistency
 + There are other realisations of certain sounds, shall I explain them too?
 	+ e.g. slender r being tapped vs being fricative
 + When options are given in the lárchanúint should I present those or choose one?
-+ 
 
-### #TODO: maybe move these, not sure where they should be ye
-+ /v/
-	+ 
-+ /x/
-+ /ɣ/
-#### Urú
-For every form of eclipses except **nG**, the pronunciation matches the pronunciation of the additional characters, and the original starting letter is silent
+
