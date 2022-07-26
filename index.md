@@ -1,6 +1,7 @@
 # Contents
 ## Muskerry
-+ [Muskerry Pronunciation](Muskerry Pronunciation.md)
++ [Pronunciation Reference](Muskerry Pronunciation.md)
++ [Intro to Pronunciation](Muskerry Intro to Pronunciation.md)
 
 ## Lárchanúint
 + [Pronunciation Reference](LaarchanuuintPronunciation.md)
