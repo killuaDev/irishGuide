@@ -14,7 +14,7 @@ This is represented in writing by adding a *h* after the consonant.
 Some consonants don't have lenited forms in the [[lárchanúint]], notably the sounds made by:
 + l, n, r, h
 + The consonants found only in borrowed words: j, v, x, z
-The way each lenited form is pronounced is discussed in further detail in [[Lárchanúint Pronunciation|Pronunciation]]
+The way each lenited form is pronounced is discussed in further detail in [Pronunciation](LaarChanuuntIntroToPronunciation.md)
 
 An example of a trigger is *mo* which means "my", words following *mo* are lenited. 
 + *ceol*:: music ([listen](http://fuaimeanna.ie/ga/Recordings.aspx?Ortho=ceol){:target="_blank"})
@@ -39,7 +39,7 @@ The letters written change based on the original starting letter, as follows:
 + p -> bp: *poll* -> *a **b**poll*
 + t -> dt: *téad* -> *a **d**téad*
 
-The pronunciation of the various eclipsed forms are explained in [[Lárchanúint Pronunciation|Pronunciation]]. Some sounds are not eclipsed, notably the sounds made by:
+The pronunciation of the various eclipsed forms are explained in [Pronunciation](LaarChanuuntIntroToPronunciation.md). Some sounds are not eclipsed, notably the sounds made by:
 + h, l, m, n, r, s
 + The consonants found only in borrowed words: j, v, x, z
 
@@ -52,14 +52,14 @@ Note that the letters added to represent eclipsis are never capitalised, the "tr
 
 ## *t-*
 *t-* is sometimes added before vowels, similar to eclipsis the hyphen is removed if the word is capitalised. 
-The pronunciation is discussed in [[Lárchanúint Pronunciation|Pronunciation]]. 
+The pronunciation is discussed in [Pronunciation](LaarChanuuntIntroToPronunciation.md). 
 
 An example of a trigger of *t-* is *an* before a masculine noun in the nominative starting with a vowel. **(Don't worry if you don't know what that means as it will be explained later)** 
 + *airgead*:: money ([listen](http://fuaimeanna.ie/sounds/airgead_i2_s2.mp3){:target="_blank"})
 + *an **t**-airgead*:: the money ([listen](http://fuaimeanna.ie/sounds/an_t-airgead_i2_s2.mp3){:target="_blank"})
 
 ## *h*
-*h* can be added to words starting with vowels, it is not followed by a hyphen in writing. It is important not to confuse this with lenition which is represented with a h *after a consonant*. The two are separate and are never triggered by the same things. The pronunciation is discussed in [[Lárchanúint Pronunciation|Pronunciation]].
+*h* can be added to words starting with vowels, it is not followed by a hyphen in writing. It is important not to confuse this with lenition which is represented with a h *after a consonant*. The two are separate and are never triggered by the same things. The pronunciation is discussed in [Pronunciation](LaarChanuuntIntroToPronunciation.md).
 
 One example is that a *h* is added before a vowel after the word *le*.
 + *aol*:: lime ([listen](https://www.teanglann.ie/CanU/aol.mp3){:target="_blank"})
