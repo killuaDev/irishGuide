@@ -40,7 +40,7 @@ The letters written change based on the original starting letter, as follows:
 + p -> bp: *poll* -> *a **b**poll*
 + t -> dt: *téad* -> *a **d**téad*
 
-The pronunciation of the various eclipsed forms are explained in [[Muskerry Intro to Pronunciation|Pronunciation]]. Some sounds are not eclipsed, notably the sounds made by:
+The pronunciation of the various eclipsed forms are explained in [Intro to Reading Words](Muskerry Intro to Reading Irish Words.md). Some sounds are not eclipsed, notably the sounds made by:
 + h, l, m, n, r, s
 + The consonants found only in borrowed words: j, v, x, z
 
