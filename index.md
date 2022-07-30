@@ -2,7 +2,7 @@
 ## Muskerry
 + [Pronunciation Reference](Muskerry Pronunciation.md)
 + [Intro to Pronunciation](Muskerry Intro to Pronunciation.md)
-+ [Intro to Reading Words](Muskerry Intro to Reading Irish Words)
++ [Intro to Reading Words](Muskerry Intro to Reading Irish Words.md)
 
 ## Lárchanúint
 + [Pronunciation Reference](LaarchanuuintPronunciation.md)
