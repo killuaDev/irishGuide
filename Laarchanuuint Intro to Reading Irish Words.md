@@ -1,7 +1,7 @@
 # Intro to Reading Irish Words
 Now that we've established what sounds exist in Irish, we can talk about how to pronounce a word based on how it's written.
 
-This is a beginner's guide, for a comprehensive reference see [[Lárchanúint Pronunciation]].
+This is a beginner's guide, for a comprehensive reference see the [Pronunciation Reference](LaarchanuuintPronunciation.md).
 
 ## Consonants
 As discussed, Irish consonants can be either slender or broad, so the obvious question is how do we know from writing whether a consonant is slender or broad.
@@ -13,7 +13,7 @@ Consonants next to one another are called consonant groups, all consonants in a 
 
 Note that the /k/ and /kʹ/ sounds are actually represented by the letter 'c' in Irish writing.
 
-Double consonants are pronounced the same as single consonants #TODO: ya know
+Double consonants are pronounced the same as single consonants.
 
 Note: 'r' at the beginning of a word is always broad, /r/
 + rí - /riː/
@@ -36,7 +36,7 @@ Vowels often trip up learners, because when they come in groups their pronunciat
 
 Stress is the amount of emphasis we put on a syllable. For example, the first syllable is stressed in the word "record" in the phrase "a record", but the second in the phrase "I record".
 
-Usually the first syllable is stressed in Irish. Otherwise we mark stressed syllables with ' e.g. [/ə'nisʹ/](https://www.teanglann.ie/CanU/anois.mp3), the stress is on the second syllable. 
+Usually the first syllable is stressed in Irish. Otherwise we mark stressed syllables with ' e.g. *anois* [/ə'nisʹ/](https://www.teanglann.ie/CanU/anois.mp3), the stress is on the second syllable. 
 
 ### Stressed Vowels
 Single vowels are relatively simple, if they are stressed their pronunciation is the sound which shares their symbol.
@@ -51,7 +51,8 @@ Single vowels are relatively simple, if they are stressed their pronunciation is
 + ú = /uː/
 + ó = /oː/
 
-It can be a bit more confusing when there's more than one vowel.
+
+It can be a bit more confusing when there's more than one vowel together.
 If there's a vowel which has a *síneadh fada* on it (this line above the áéíúó), it is the one pronounced 
 + *ciúin* (quiet) - /kʹuːnʹ/
 	+ Note here that while the ú is the only vowel sound pronounced, the other letters serve to show that the first c and last n are slender
@@ -71,6 +72,9 @@ And these next combinations are read as either a vowel combination or a long vow
 
 Note that for the final two, despite being spelt with an 'a', there is not actually an /a/ sound.
 
+If a short vowel comes before 'rd', 'rr', 'rl', or 'rn', it becomes long
++ For example, *ard* is pronounced /aːrd/
+
 #### Some Examples
 + *cas* (turn) - /kas/
 	+ the single 'a' here is pronounced as /a/
@@ -81,6 +85,11 @@ Note that for the final two, despite being spelt with an 'a', there is not actua
 	+ the 'ao' is pronounced as /iː/
 + *trua* (pity) - /truə/
 	+ ua is pronounced /uə/
++ *corn* (trophy) - /koːrn/
+	+ short 'o' before 'rn' becomes lengthened to /oː/
++ buíon - /biːn/
+	+ we know the /iː/ vowel sound is used here because it's the only vowel in the group with a fada
+	+ both consonants are broad
 
 ### Unstressed Vowels
 If a short vowel is unstressed, it is pronounced as /ə/
@@ -107,15 +116,13 @@ Lenition was introduced previously, here we'll talk about how to read lenited co
 #### Some Examples
 + *dhún* (closed) - /ɣuːn/
 	+ dh = /ɣ/, because it's broad
-+ *fhill* (returned) - /ilʹ/
-	+ fh is silent
 + *cheap* (thought) - /xʹap/
 	+ ch = /xʹ/, because it's slender
 + *thuill* (earned) - /hilʹ/
 	+ th = /h/
 
 ## Eclipsis
-Lenition was introduced previously, here we'll talk about how to read eclipsed consonants. We know if they are broad or slender depending  on the vowels around them, as with any consonants
+Eclipsis was introduced previously, here we'll talk about how to read eclipsed consonants. We know if they are broad or slender depending  on the vowels around them, as with any consonants
 + Except for **n**g, when eclipsis occurs the original letter is silent and the added letter(s) is pronounced
 	+ **m**b = /m/ or /mʹ/
 	+ **g**c = /g/ or /gʹ/
@@ -127,11 +134,11 @@ Lenition was introduced previously, here we'll talk about how to read eclipsed c
 
 #### Some Examples
 + *a ngol* (their crying) - /a ŋol/
-+ a gciall (their sense) - /a giəl/
++ a gciall (their sense) - /a gʹiəl/
 + a bhfuinneog - /a vinʹoːg/
 
 ---
 
 The information here is added to in the pages about verb forms, which are often exceptional in their pronunciation, and in the page about /ai/ and /au/.
 
-There are various exceptions that aren't mentioned here, but can be seen in [[Lárchanúint Pronunciation]]
+There are various exceptions that aren't mentioned here, but can be seen in the [Pronunciation Reference](LaarchanuuintPronunciation.md)
