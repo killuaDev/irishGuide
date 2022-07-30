@@ -1,7 +1,7 @@
 # Intro to Reading Irish Words
 Now that we've established what sounds exist in Irish, we can talk about how to pronounce a word based on how it's written.
 
-This is a beginner's guide, for a comprehensive reference see [[Muskerry Pronunciation]].
+This is a beginner's guide, for a comprehensive reference see the [Pronunciation Reference](Muskerry Pronunciation.md).
 
 ## Consonants
 As discussed, Irish consonants can be either slender or broad, so the obvious question is how do we know from writing whether a consonant is slender or broad.
@@ -171,4 +171,4 @@ Eclipsis was introduced previously, here we'll talk about how to read eclipsed c
 
 The information here is added to in the pages about verb forms, which are often exceptional in their pronunciation, and in the page about /əi/ and /au/.
 
-There are various exceptions that aren't mentioned here, but can be seen in [[Muskerry Pronunciation]]
+There are various exceptions that aren't mentioned here, but can be seen in the [Pronunciation Reference](Muskerry Pronunciation.md)
