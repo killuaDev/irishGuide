@@ -75,7 +75,3 @@ An example of a trigger of *t* is *an* before a feminine noun in the nominative 
 ## Conclusion
 It's important to remember that these are primarily *sound* changes, and the way we write them is just a way to represent the change in pronunciation that occurs. Keep this in mind when going into the section on pronunciation.
 
-
-
----
-[[Irish]] |
