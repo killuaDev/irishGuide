@@ -14,21 +14,21 @@ This is represented in writing by adding a *h* after the consonant.
 Some consonants don't have written lenited forms in Muskerry Irish, however they may still have a different sound when lenited, notably:
 + l, n, r, h
 + The consonants found only in borrowed words: j, v, x, z
-The way each lenited form is pronounced is discussed in further detail in [[Muskerry Intro to Pronunciation|Pronunciation]]
+The way each lenited form is pronounced is discussed in further detail in [Intro to Reading Words](Muskerry Intro to Reading Irish Words.md)
 
 An example of a trigger is ***mo*** which means "my", words following *mo* are lenited. 
-+ *ceol*:: music ([listen](http://fuaimeanna.ie/sounds/mo_cheol_i2_s2.mp3))
++ *ceol*:: music ([listen](http://fuaimeanna.ie/sounds/mo_cheol_i2_s2.mp3){:target="_blank"})
 + *mo c**h**eol*:: my music ([listen](http://fuaimeanna.ie/sounds/mo_cheol_i2_s2.mp3)
 
 Cpnsonants without lenited forms remain the same, no *h* is added in the spelling.
-+ *leaba*:: bed ([listen](http://fuaimeanna.ie/sounds/leaba_i2_s2.mp3))
++ *leaba*:: bed ([listen](http://fuaimeanna.ie/sounds/leaba_i2_s2.mp3){:target="_blank"})
 + *mo leaba*:: my bed
 
 ## *Urú* - Eclipsis
 Eclipsis, known as *urú* in Irish, is a sound change which can happen to some consonants and the vowels in Irish. It is represented in writing by putting one or more additional consonants before the beginning of the word.
 For example:
-+ *gaol*:: relation ([listen](http://fuaimeanna.ie/sounds/gaol_i2_s2.mp3))
-+ *a **n**gaol*:: their relation ([listen](http://fuaimeanna.ie/sounds/a_ngaol_i2_s2.mp3))
++ *gaol*:: relation ([listen](http://fuaimeanna.ie/sounds/gaol_i2_s2.mp3){:target="_blank"})
++ *a **n**gaol*:: their relation ([listen](http://fuaimeanna.ie/sounds/a_ngaol_i2_s2.mp3){:target="_blank"})
 
 The letters written change based on the original starting letter, as follows:
 + Vowel -> n- + vowel: *úll* -> *a **n**-úll*
@@ -45,33 +45,33 @@ The pronunciation of the various eclipsed forms are explained in [[Muskerry Intr
 + The consonants found only in borrowed words: j, v, x, z
 
 An example of a trigger is ***a*** meaning "their" (*a* can also mean other things), words following ***a*** meaning "their" are eclipsed.
-+ *guí*:: prayer ([listen](http://fuaimeanna.ie/sounds/guii_i2_s2.mp3))
-+ *a **n**guí*:: their prayer ([listen](http://fuaimeanna.ie/sounds/a_nguii_i2_s2.mp3))
++ *guí*:: prayer ([listen](http://fuaimeanna.ie/sounds/guii_i2_s2.mp3){:target="_blank"})
++ *a **n**guí*:: their prayer ([listen](http://fuaimeanna.ie/sounds/a_nguii_i2_s2.mp3){:target="_blank"})
 
 Note that the letters added to represent eclipsis are never capitalised, the "true" first letter of the word is. And in the event of a vowel being eclipsed and capitalised, the hyphen is removed
 + *Tír na **n**Óg*:: The Land of the Young
 
 ## *t-*
 *t-* is sometimes added before vowels, similar to eclipsis the hyphen is removed if the word is capitalised. 
-The pronunciation is discussed in [[Muskerry Intro to Pronunciation|Pronunciation]]. 
+The pronunciation is discussed in [Intro to Reading Words](Muskerry Intro to Reading Irish Words.md). 
 
 An example of a trigger of *t-* is *an* before a masculine noun in the nominative starting with a vowel. **(Don't worry if you don't know what that means as it will be explained later)** 
-+ *airgead*:: money ([listen](http://fuaimeanna.ie/sounds/airgead_i2_s2.mp3))
-+ *an **t**-airgead*:: the money ([listen](http://fuaimeanna.ie/sounds/an_t-airgead_i2_s2.mp3))
++ *airgead*:: money ([listen](http://fuaimeanna.ie/sounds/airgead_i2_s2.mp3){:target="_blank"})
++ *an **t**-airgead*:: the money ([listen](http://fuaimeanna.ie/sounds/an_t-airgead_i2_s2.mp3){:target="_blank"})
 
 ## *h*
-*h* can be added to words starting with vowels, it is not followed by a hyphen in writing. It is important not to confuse this with lenition which is represented with a h *after a consonant*. The two are separate and are never triggered by the same things. The pronunciation is discussed in [[Muskerry Intro to Pronunciation|Pronunciation]].
+*h* can be added to words starting with vowels, it is not followed by a hyphen in writing. It is important not to confuse this with lenition which is represented with a h *after a consonant*. The two are separate and are never triggered by the same things. The pronunciation is discussed in [Intro to Reading Words](Muskerry Intro to Reading Irish Words.md).
 
 One example is that a *h* is added before a vowel after the word *le*.
-+ *aol*:: lime ([listen](https://www.teanglann.ie/CanM/aol.mp3))
-+ *le **h**aol*:: with lime ([listen](http://fuaimeanna.ie/sounds/le_haol_i2_s2.mp3))
++ *aol*:: lime ([listen](https://www.teanglann.ie/CanM/aol.mp3){:target="_blank"})
++ *le **h**aol*:: with lime ([listen](http://fuaimeanna.ie/sounds/le_haol_i2_s2.mp3){:target="_blank"})
 
 ## *t(s)*
 *t* can be added to words starting with *s* in some places. This is a special type of lenition, which can happen after the word *an*.
 
 An example of a trigger of *t* is *an* before a feminine noun in the nominative starting with an *s*. **(Don't worry if you don't know what this means as it will be explained later)** 
-+ *sraith*:: series ([listen](https://www.teanglann.ie/CanM/sraith.mp3))
-+ *an **t**sraith*:: the series ([listen](https://voca.ro/1ldbiBNJtCTn))
++ *sraith*:: series ([listen](https://www.teanglann.ie/CanM/sraith.mp3){:target="_blank"})
++ *an **t**sraith*:: the series ([listen](https://voca.ro/1ldbiBNJtCTn){:target="_blank"})
 
 ## Conclusion
 It's important to remember that these are primarily *sound* changes, and the way we write them is just a way to represent the change in pronunciation that occurs. Keep this in mind when going into the section on pronunciation.
