@@ -72,8 +72,9 @@ Otherwise if all the vowels are short, you have to learn certain patterns
 And these next combinations are read as either a vowel combination or a long vowel
 + ao = /eː/
 + aoi = /iː/
-+ eo = /oː/
++ eo, eoi = /oː/
 	+ with a few exceptions
++ ae, aei = /eː/
 + ia, iai = /iə/
 + ua, uai = /uə/
 
