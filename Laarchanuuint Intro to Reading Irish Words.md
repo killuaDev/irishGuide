@@ -58,7 +58,7 @@ If there's a vowel which has a *síneadh fada* on it (this line above the áéí
 	+ Note here that while the ú is the only vowel sound pronounced, the other letters serve to show that the first c and last n are slender
 
 Otherwise if all the vowels are short, you have to learn certain patterns
-+ ea, ai = /a/ 
++ ea, ai, eai = /a/ 
 + ei = /e/
 + io, ui = /i/
 + oi = /o/
