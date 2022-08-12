@@ -64,7 +64,7 @@ If there's a vowel which has a *síneadh fada* on it (this line above the áéí
 
 Otherwise if all the vowels are short, you have to learn certain patterns
 + ai = /ɑ/ 
-+ ea = /a/
++ ea, eai = /a/
 + ei = /e/
 + ui, oi = /i/
 + io = /u/
