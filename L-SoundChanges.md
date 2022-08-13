@@ -66,7 +66,7 @@ One example is that a *h* is added before a vowel after the word *le*.
 + *le **h**aol*:: with lime ([listen](http://fuaimeanna.ie/sounds/le_haol_i1_s1.mp3){:target="_blank"})
 
 ## *t(s)*
-*t* can be added to words starting with *s* in some places. This is a special type of lenition, which can happen after the word *an*.
+*t* can be added to words starting with *s* in some places. This is a special type of lenition, which can happen after the word *an*. In this case, only the t is pronounced and the s is silent.
 
 An example of a trigger of *t* is *an* before a feminine noun in the nominative starting with an *s*. **(Don't worry if you don't know what this means as it will be explained later)** 
 + *sraith*:: series ([listen](https://www.teanglann.ie/CanC/sraith.mp3){:target="_blank"})
