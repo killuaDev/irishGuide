@@ -95,7 +95,7 @@ When I refer to flattening your lips I mean making the gap between them long and
 		+ as in *[**c**iumhais](http://fuaimeanna.ie/sounds/ciumhais_i3_s3.mp3){:target="_blank"}* (margin)
 		+ To make this sound, put your mouth in position to say the 'k' in 'kit', but raise the middle of your tongue up slightly more. 
 	+ /x/
-		+ as in *[**ch**un](https://www.teanglann.ie/CanC/chun.mp3){:target="_blank"}* (to)
+		+ as in *[**ch**omh](https://www.teanglann.ie/CanC/chomh.mp3){:target="_blank"}* (as)
 		+ To make this sound, place your mouth as you would to make an English "c" sound as in "cut", but but instead of fully bringing your tongue up to touch the roof of your mouth, leave some space between the tongue and the roof.
 	+ /xʹ/
 		+ as in *[**ch**eannaigh](http://fuaimeanna.ie/sounds/cheannaigh_i3_s3.mp3){:target="_blank"}* (bought)
