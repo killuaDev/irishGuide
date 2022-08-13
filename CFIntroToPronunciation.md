@@ -51,7 +51,7 @@ When I refer to flattening your lips I mean making the gap between them long and
 		+  This sound is similar to the English sound 'f', except it's made with the lips alone, which are flattened and the middle of the tongue is raised slightly.
 + 2.
 	+ /d/
-		+ as in *[**d**ó](https://www.teanglann.ie/CanC/d%C3%B3.mp3){:target="_blank"}* (to him)
+		+ as in *[**d**ó](https://www.teanglann.ie/CanC/d%C3%B3.mp3){:target="_blank"}* (two)
 		+ Unlike the english sound 'd', which is usually made at the ridge behind the teeth, this sound is made at the teeth themselves, where the "th" in "this" would be made. Unlike "th" though, the tongue actually hits off the teeth rather than just creating friction with them
 	+ /dʹ/
 		+ as in *[**d**eo](http://fuaimeanna.ie/sounds/deo_i3_s3.mp3){:target="_blank"}* (ever)
