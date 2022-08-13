@@ -225,7 +225,7 @@ Practice saying each of these sounds, paying attention to the recordings for any
 
 Looking back to check any symbols you can't remember, try figuring out how these words sound, and then listen to the recordings to see if you were right.
 + /sʹuːl/ ([listen](https://www.teanglann.ie/CanC/si%C3%BAl.mp3))
-+ /kalʹiːnʹ/ ([listen](https://www.teanglann.ie/CanC/cail%C3%ADn.mp3))
++ /kaːlʹiːnʹ/ ([listen](https://www.teanglann.ie/CanC/cail%C3%ADn.mp3))
 + /bʹerʹ/ ([listen](https://www.teanglann.ie/CanC/beir.mp3))
 + /maːlə/ ([listen](https://www.teanglann.ie/CanC/m%C3%A1la.mp3))
 + /kɑːLʹ/ ([listen](http://fuaimeanna.ie/sounds/caill_i3_s3.mp3))
