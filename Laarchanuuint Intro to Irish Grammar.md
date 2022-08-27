@@ -2,7 +2,7 @@
 In this lesson we're going to look at several Irish sentences to understand how they are structured compared to English ones.
 Then later on we will revisit each sentence to explain why each part is as it is, so don't worry if you don't understand everything in this initial overview.
 
-##### *Dúnann an t-eolaí beag an fhuinneog mhór gach lá*  
+#### *Dúnann an t-eolaí beag an fhuinneog mhór gach lá*  
 /duːnən ə tʹoːliː bʹeg ən inʹoːg voːr gax laː/
 + The little scientist closes the big window every day.
 
@@ -18,7 +18,7 @@ The structure of an Irish sentence is **Verb-Subject-Object**
 + Subject: *an t-eolaí beag* 
 + Object: *an fhuinneog mhór*
 
-##### Tá an bhean sásta
+#### Tá an bhean sásta
 /taːn vʹan saːstə/
 + The woman is happy.
 
@@ -34,7 +34,7 @@ Irish: To be, subject, description
 + Subject: an bhean
 + Description: sásta
 
-##### Is é Cormac an rí
+#### Is é Cormac an rí
 /sʹeː korəməc ə(n) riː/
 + *Cormac* is the king.
 
@@ -51,13 +51,13 @@ Compare that to *Is é an rí Cormac* (Cormac is *the king*), in which we are le
 
 #TODO: Should that info be moved to later
 
-##### Is fear é Cormac
+#### Is fear é Cormac
 /is fʹar eː korəməc/
 + Cormac is a man.
 
 This structure is very similar to the last one, but the é is added before *Cormac* rather than before *fear*, because Cormac is definite and *fear* isn't. *fear* simply means "a man". The indefinite part always comes first.
 
-##### Is duine fear
+#### Is duine fear
 /is dinʹə fʹar/
 + A man is a person
 
