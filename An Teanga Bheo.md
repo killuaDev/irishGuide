@@ -3,6 +3,7 @@
 Stress can fall either on the first, second or third syllable of a word based on the rules given below; the stressed part is shown with bold letters.
 
 The stress falls
+
 (i) on the second syllable if it's a long vowel or *-ach*:
 - *cai**lín**, cai**lín**í*
 - *amh**rán**, amh**rán**aí, amh**rán**aíocht*
@@ -48,10 +49,10 @@ The stress isn't on *-ach* if *-th-* is the consonant before it or if there's a 
 - *fóg(a)**raíonn** fóg(a)**róig***
   
 Some speakers stress the *-(a)í* in comparative forms of adjectives:
-- ***cúr**amach    níos cúra**maí**/cúiri**mí***
+- ***cúr**amach níos* *cúra**maí**/cúiri**mí***
   
 However the *-(a)í* isn't stressed in the third syllable if there's a long vowel before it:
-- *sao**ráid**each    níos sao**ráid**í*
+- *sao**ráid**each níos sao**ráid**í*
   
 (iii) The stress falls on the first syllable in the following words despite the above rules: *an t-áirseoir, aturnae, buíocán (uibh), Caitleacaí, eidhneán, gealacán (uibh), lamhancán, lamhnán.*
 The first syllable is stressed in lots of loans from English as well, e.g. *baitsiléir, bocaidí* (iolra), *fiúsaí, meagalsaí* (iolra).
