@@ -175,7 +175,7 @@ These are all said with *-in*:
 ## 1.7 Vowel Change before *-ll, -nn, -rr and -m*
 Short vowels before these consonants are made into diphthongs or long vowels. For example, /ou/ is said in *crann, poll am;* the diphthong /ai/ is said in *caill, faill;* the long vowel /i:/ is said in *coill, fill, binn, im;* and the long vowel /a:/ is said in *barr, gearr*. When an epenthetic vowel is put in words like these however, that lengthening does not occur. The following vowel changes exist:
 
-| Fadú         | Gan Fadú             |
+| Lengthening         | No Lengthening             |
 | ------------ | -------------------- |
 | *crann* /ou/ | *crannaíocha* /a/    |
 | *poll* /ou/  | *polladh* /o/        |
