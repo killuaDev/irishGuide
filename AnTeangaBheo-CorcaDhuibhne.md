@@ -1,5 +1,6 @@
-# 1. Pronunciation Points
-## 1.1 Vocal Stress
+# An Teanga Bheo - Gaeilge Chorca Dhuibhne
+## 1. Pronunciation Points
+### 1.1 Vocal Stress
 Stress can fall either on the first, second or third syllable of a word based on the rules given below; the stressed part is shown with bold letters.
 
 The stress falls
@@ -36,7 +37,7 @@ The stress isn't on *-ach* if *-th-* is the consonant before it or if there's a 
 - ***brón**ach*
 - ***út**amáil*
 
-### Exceptions
+#### Exceptions
 (i) It's normal, particularly in some set phrases, to move the stress from the last syllable to the first syllable of a word when the word is followed by a stressed syllable:
 - *cailín* but *cailín óg*
 - *gairdín but gairdín úll*
@@ -57,7 +58,7 @@ However the *-(a)í* isn't stressed in the third syllable if there's a long vowe
 (iii) The stress falls on the first syllable in the following words despite the above rules: *an t-áirseoir, aturnae, buíocán (uibh), Caitleacaí, eidhneán, gealacán (uibh), lamhancán, lamhnán.*
 The first syllable is stressed in lots of loans from English as well, e.g. *baitsiléir, bocaidí* (iolra), *fiúsaí, meagalsaí* (iolra).
 
-## 1.2 Loss of Vowels in the Syllable before the Stress
+### 1.2 Loss of Vowels in the Syllable before the Stress
 The short vowel is lost in the syllable before the stress in many words, if *r*, *l*, or *n* are following that vowel:
 - an t-arán *an trán* 
 - dearóil *dreoil*
@@ -89,7 +90,7 @@ This leaves the following pairs as homophones
 - *coileach/cailleach*
 - *barróg/bróg*
 
-## 1.3 The *minic/mnic* Change
+### 1.3 The *minic/mnic* Change
 In certain words, two syllables fall together, when *r*, *l*, *n* are separating them. The dialectal pronunciation is given on the right below:
 - boladh *bla*
 - chonac *chnuc*
@@ -101,7 +102,7 @@ In certain words, two syllables fall together, when *r*, *l*, *n* are separating
 - fuiriste *fuirist/frist*
 - tirim *trim/tirim*
 
-## 1.4 Loss of *-bh-*, *-mh-* Between Two Vowels
+### 1.4 Loss of *-bh-*, *-mh-* Between Two Vowels
 A stressed vowel + *bh/mh* + a weak vowel are made into a long vowel, as shown on the right below:
 + *-bh-* 
 	+ beart craoibhe *beart craoi*
@@ -119,7 +120,7 @@ A stressed vowel + *bh/mh* + a weak vowel are made into a long vowel, as shown o
 	  
 There's some words or forms of words where the *-bh-* or the *-mh-* is said, e.g. *cléibheanna, luibheanna, amharc.*
 
-## 1.5 *-idh* and *-igh* at the End of Words
+### 1.5 *-idh* and *-igh* at the End of Words
 Usually these are said like *-ig*:
 - tigh *tig*
 - cheannaigh *cheannaig*
@@ -134,7 +135,7 @@ Usually these are said like *-ig*:
 - chuaigh *chuaig*
 - suigh *suig*
 
-### Exceptions
+#### Exceptions
 The *dh/gh* is dropped in the following situations:
 (i) In multisyllabic words, before a pronoun acting as a subject:
 - *cheanna sé tig*
@@ -165,14 +166,14 @@ The *g* is said in the genitive case of the words *Loínseach, Dálach* etc.
   
 (iv) In the word *tráig* when it's in the placenames *Trá Lí, Trá Bheag, Fionntrá.*
 
-## 1.6 *-ing* and *-inn*
+### 1.6 *-ing* and *-inn*
 These are all said with *-in*:
 - fairsing *fairsin*
 - scilling *scillin*
 - dúinn *dúin*
 - againn *a**guin***
 
-## 1.7 Vowel Change before *-ll, -nn, -rr and -m*
+### 1.7 Vowel Change before *-ll, -nn, -rr and -m*
 Short vowels before these consonants are made into diphthongs or long vowels. For example, /ou/ is said in *crann, poll am;* the diphthong /ai/ is said in *caill, faill;* the long vowel /i:/ is said in *coill, fill, binn, im;* and the long vowel /a:/ is said in *barr, gearr*. When an epenthetic vowel is put in words like these however, that lengthening does not occur. The following vowel changes exist:
 
 | Lengthening         | No Lengthening             |
@@ -191,11 +192,10 @@ Short vowels before these consonants are made into diphthongs or long vowels. Fo
 
 Of course, it's the  long vowel or diphthong that's said when the *ll, nn, rr* is directly followed by a consonant; /ai/ is siad in *caillte*, /i:/ in *fillte* and /a:/ in *bearrtha.*
 
-## 1.8 *éa*
+### 1.8 *éa*
 *éa* (i.e. the vowel é before a broad consonant) is said as the diphthong /ia/ or /iə/:
 - *éan* /ian/ or /iən/
 - *féar* /f´iar/ or /f´iər/
 - *béal* /b´ial/ or /b´iəl/
   
 /e:/ is said in songs and poetry, for example *ar fharraigí tréana.* /e:/ is also said in the second syllable, e.g. *buidéal, siúinéara;* after *r*, e.g. *réab, réal;* in the verbs *léann, téann;* and in words like *véarsa, léas ('lease, lace'), gléas ('shine')* and *mo léan.* *éi* stays as /e:/, for example in the genitive forms *éin, féir, béil buidéil.*
-
