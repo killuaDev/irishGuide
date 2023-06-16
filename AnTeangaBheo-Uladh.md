@@ -1,5 +1,6 @@
-# 1. Pronunciation
-## 1.1 Stress
+# An Teanga Bheo - Gaeilge Uladh
+## 1. Pronunciation
+### 1.1 Stress
 In Ulster, stress is usually on the first syllable. There's a strong tendency because of that to shorten the vowels in the unstressed syllables. Even though there's a fada symbol on the vowels in the second/third syllable in the words below, they're said as short vowels usually. The same with the *eo(i)* in the second syllable of the words, it's said as a short *o*. In the samples bellow, *eô* shows that there's a short *o*. The *e* sound, like in the english word *let* is used for *éi/ae* in unstressed syllables. When the dialectal form of the word is different from the standard form, I give the standard version in parentheses.
 
  |                 |  Word            |  Pronunciation |
@@ -35,7 +36,7 @@ When a word ends in *-ín* or when *-ao(i)* is in an unstressed syllable in a wo
 | cathaoir    | caithir/caithír       |
 | Dé Céadaoin | Dé Céadaine/Céadaoine |
 
-### Shortening of Long Vowels Generally
+#### Shortening of Long Vowels Generally
 Regarding the long vowels which are shortened in unstressed syllables, the following should be said about them.
 
 (a) In the southern half of Donegal, the quality of the vowel is kept when it's shortened and it's often half-length.
@@ -44,7 +45,7 @@ Regarding the long vowels which are shortened in unstressed syllables, the follo
 
 (c) This tendency of using a neutral vowel in the second syllable is stronger the further you go towards Ros Goill, An Tearmainn and Fhánada. This tendency was also found in East Ulster when it was still spoken.
 
-## 1.2 Compound Words
+### 1.2 Compound Words
 When a compound word is made with a long vowel in the second part of it, the vowel in that part is shortened if the first syllable of the compound word has the strongest stress.
 
 | Word       | Pronunciation |
@@ -60,7 +61,7 @@ When the compound word ends on a vowel there is a tendency to keep that vowel ha
 - seanbhó seanbho/seanbhó
 - corrlá corrla/corrlá
 
-## 1.3 Stressed Vowels
+### 1.3 Stressed Vowels
 Stressed long vowels and diphthongs in the first syllable of words are shortened in many contexts. It's not quite the same in any two subdialects. This shortening regularly happens before *th* but it happens in many other contexts which aren't easy to describe. Below are representative samples of words where the change applies. Anywhere the shortening makes the word hard to recognise, the root version is given in parentheses. That form is not always in accordance with the Official Standard.
 
 (a) *'á'* go *a*
@@ -91,7 +92,7 @@ Stressed long vowels and diphthongs in the first syllable of words are shortened
 Note that 'ia' + 'bh' has the /ou/ in the english word *sound* in certain areas, within words like these.
 + *cleabhán* (cliabhán), *deabhal* (diabhal), *feabhraigh* (fiafraigh), *feabhras* (fiabhras)
 
-## 1.4 Shortening of Vowels in Monosyllabic Words
+### 1.4 Shortening of Vowels in Monosyllabic Words
 (a) *Má/Dá* the vowels in these words are rarely long. If there's some emphasis on them, they're said with a short *a* like in the word *mac*. If there's no emphasis on them at all, they're said as a neutral vowel like in the first syllable of the word *arís*. The symbol \[ə] is used bellow to represent the netural vowel. The *'d'* in *Dá* is often dropped.
 + *Ma/Mə bhíonn sé ann, labhair leis*
 + *Da/Də mbeinn chugam féin, rachainn libh.*
@@ -122,7 +123,7 @@ but
 + Mánas (M)ag Éidí/Fhionnaile/Íomhair ('g' caol)
 + Eoghan (M)a Giolla Bhríde/Chóill ('c/g' ar lár)
 
-## 1.5 Multisyllabic Words Ending with *'-adh/-amh/-odh*
+### 1.5 Multisyllabic Words Ending with *'-adh/-amh/-odh*
 -(e)adh/-odh/-(e)amh in multisyllabic words are said like the *u* at the end of *Zulu*. They're found words like the following. *ú* is used to show the pronunciation:
 
 (a) Nouns: *molú* (moladh), *bualú* (bualadh), *Samhrú* (Samhradh), *Geimhriú* (Geimhreadh), *talú/tolú* (talamh).
@@ -131,7 +132,7 @@ but
 
 (c) Verb endings: *bíú* (bíodh), *crochú é* (crochadh), *brisiú iad* (briseadh), *mholhú Seán thú* (mholfadh).
 
-## 1.6 *Idh/Igh* at the End of Words
+### 1.6 *Idh/Igh* at the End of Words
 The *dh/gh* in single syllable words is said just how it's said at the start of words like *ghearr, dhíol a Dhia!* etc. We're showing the pronunciation of *dh/gh* in these words with the symbol /y/. It's almost the same as the *y* sound in the English word *yes.*
 
 | Word    | Pronunciation |
@@ -154,7 +155,7 @@ Often the standard form of words leaves out this *-idh/-igh.* In the examples be
 | trua     | truaighe     | truaye        |
 | pá       | páigh(e)     | páye          |
 
-## 1.7 Broad *mh/bh*
+### 1.7 Broad *mh/bh*
 (i) *w* like in the English word *watch* is the normal sound for *mh/bh* (a) at the start of a word or after prefixes, and (b) after a long vowel or after the diphthongs *ia* and *ua* in the middle/end of a word. There is strong nasalisation on the *w* from *mh* usually.
 - (a) *A Mháire, rómhaith, mharaigh; bhuail, bhain, róbhog, an bhó.*
 - (b) *ag léamh, ag snámh, An Fómhar, lámh, lámha, Mac Íomhair, (a)riamh, Niamh, sciamhach; ábhar, cliabh, sliabh, riabhóg*
@@ -166,20 +167,20 @@ Often the standard form of words leaves out this *-idh/-igh.* In the examples be
 - *abhainn, cabhair, gabhar, labhair, leabhar, meabhair, rabharta, seabhac.*
 - *comhairle, comhrá, domhan, Domhnach, tomhas; lobhar dobharchú, Gaoth Dobhair*
 
-## 1.8 Slender *mh/bh*
+### 1.8 Slender *mh/bh*
 Slender *mh/bh* are the same every where, at the start, middle, and end of a word. It's similar to the *v* sound in the English words *very, live* except that it's bilabial.
 - Start of a word: *an mhín, mhionnaigh, sé mhí; an bhean, bhí, bhris*
 - Middle of a word: *ainmhí, cuimhne, roimhe, rómhinic, uimhir; aoibhneas, cuibhreann, róbheag, saibhir, taibhse; uibheacha*
 - End of a word: *nimh, scéimh, séimh; ar na mallaibh, bainne an linbh, daoibh, libh, luibh, sibh; arbh fhiú, seilbh, tairbh*
 
-## 1.9 *a(i)dh, a(i)gh, eadh, eidh, eagh, eigh, oidh, o(i)gh in the Middle of a Word*
+### 1.9 *a(i)dh, a(i)gh, eadh, eidh, eagh, eigh, oidh, o(i)gh in the Middle of a Word*
 ### (a) a(i)dh/a(i)gh
 *adh/agh* is pronounced as a long vowel in the middle of words. It's similar to the vowel sound *ae* in the word *Gael*. *aidh/aigh* and *adh/agh* are the same sound across Ulster, generally except that the dipthong in the English word *height* is used before dental consonants like *d, n, s* and *t,* in Donegal Irish. The Official Standard is in parentheses below when it would distort the pronunciation
 
-#### (i) Long Vowel
+(i) Long Vowel
 *adharc, cladhaire, radharc, Tadhg; aghaidh, laghad, slaghdán; A Thaidhg, claidheamh* (claíomh), *saidhbhir* (saibhir), *saighead*, staighre
 
-#### (ii) Diphthong
+(ii) Diphthong
 *maighdean, maighistir* (máistir), *saighdiúir, saighneán*
 
 In East Ulster, they would have had a short vowel in these as well. Note the word *maidhean* in the well known poem "Úr-Chnoc Chéin Mhic Cáinte".
@@ -191,11 +192,11 @@ In East Ulster, they would have had a short vowel in these as well. Note the wor
 > 
 > A dhúblas *féile* is fáilte
 
-### (b) *ogh/oigh/oidh*
+(b) *ogh/oigh/oidh*
 These have the same sound as *agh/aigh/aidh.*
 + *rogha, togha, foighid, oidhre*
 
-### (c) *eidh/eigh/eadh/eagh*
+(c) *eidh/eigh/eadh/eagh*
 *eidh/eigh* in the middle of a word is a long vowel like é, likewise with *eadh* before a consonant in a single syllable word:
 + eidhneán, leigheas, leadhb, meadhg
 
@@ -204,7 +205,7 @@ In multisyllabic with *eadh* in the middle, there are two ways to say it (a) as 
 
 In you also get a diphthong in *agam, agat, againn* and *agaibh* in Teileann and Gleann Cholm Cille in North Donegal.
 
-## 1.10 Fuaimniú *ao/aoi*
+### 1.10 Fuaimniú *ao/aoi*
 There are two pronunciations used for the spelling *ao*
 
 (a) unrounded *ú* and (b) *í.*
@@ -227,9 +228,9 @@ There are two pronunciations used for the spelling *ao*
 (vi) Long *í* for *aoi* is very common across Ulster when it's not followed by a consonant and in a few other words
 + *caoi, draoi, faoi, gnaoi, naoi, saoi, An Aoine, baois, Déardaoin, maoin, faoiside* (faoistin), *Taoiseach.*
 
-## Vowel Contrast Generally
+### Vowel Contrast Generally
 
-## 1.11 Long Vowels
+### 1.11 Long Vowels
 Note now that the following distinctions are found in the vowel system of Ulster Irish.
 
 (a) In the dialects which have unrounded *u* for *ao*, there's a distinction between *í - ao - ú*.
@@ -244,16 +245,16 @@ Note now that the following distinctions are found in the vowel system of Ulster
 Especially note that the spellings *-(e)abha-, -obha-, -odha-,* and *-ogha-* use the closed *ó*. This historical change adds contributes a lot of distinctions between closed *ó* and open *ó*.
 + *leabhar:leor, cabhair:cóir, tabhair:tóir, gabhal:ag ól, bodhar:ór, lobhadh:lód, loghadh:dódh*
 
-## 1.12 Short Vowels
+### 1.12 Short Vowels
 Regarding short vowels, there are distinctions in Ulster Irish which aren't in other dialects. Pay particular attention to the distinction between closed *i* and open *i*. The latter is similar to English *i* in words like *hit, sin* etc. The closed *i* is closer to the sound in English words like *meet, seat* etc. The two types of *i* are shown in the following examples, the closed form coming first.
 + *aic**i** : aig**e**, síl : sil, ith : im, filí : file* etc.
 
 Just like with the long vowels, a distinction is made between the two short *o* sounds in Ulster Irish. In the examples below the open *o* is the one in the second spot.
 + *corr* (gob) *: corr* (aisteach), *ucht : ocht, ag cur : cor, ar gor : gorm, mothú : rotha*
 
-## Miscellaneous
+### Miscellaneous
 
-## 1.13 *a/o* roimh *ch*.
+### 1.13 *a/o* roimh *ch*.
 (a) Note that a clear *a* like in the Irish word *mac* is said before *ch* in words like these below.
 + *cladach, ag ceannach(t), éadach, salach* etc.
 + *ainmneacha, loirgneacha* (lorgaí), *maidineacha* etc.
@@ -267,8 +268,8 @@ Just like with the long vowels, a distinction is made between the two short *o* 
 but
 + go dtige do rí-acht (in the Prayer)
 
-## 1.14 Change between *o* and *a*
-### 1.14.1 The Change from *o* to *a*
+### 1.14 Change between *o* and *a*
+#### 1.14.1 The Change from *o* to *a*
 This is a common change in many words. This change has been in the language since the time of old irish where you get both spellings. It most often happens before the consonants *l, r, s* and *t*. Here's some examples.
 + *arm* (orm)
 + *arthu* (orth*u*)
@@ -296,19 +297,19 @@ This is a common change in many words. This change has been in the language sinc
 *a* is also said in the following words.
 + *eanann* (ionann), *seamra* (seomra), *seapa* (siopa)
 
-### 1.14.2 The Change from *a* to *o*
+#### 1.14.2 The Change from *a* to *o*
 This is a change which is very widespread in the dialects of the north. It's usually found before a back *l*, but it's often found before a back *ll* too. The rule only rarely affects *ea* before those consonants. The new pronunciation is similar to the vowel in the Irish word *seo* or in the English word *hot* as it's said in Scotland.
 + *Olbain* (Albain), *bolbh* (balbh), *dolba* (dalba), *golánta* (galánta), *golar* (galar), *loch* (lacha), *molairt* (malairt), *solann* (salann) etc.
 + *ollas* (allas), *Ó Gollchóir* (Ó Gallchóir), *moll* (mall), *mollacht* (mallacht).
 + *los* (las), *oiteanach* (aiteannach), *moidin* (maidin)
 
-## 1.15 Raising of *a* and *á*.
-### 1.15.1 The Pronunciation of Short *a*
+### 1.15 Raising of *a* and *á*.
+#### 1.15.1 The Pronunciation of Short *a*
 The short *a* changes a lot depending on the context it's in. Generally, there is a front *a* (like the *a* in English words like *hat, rap* etc.) in the first set of words below and a back *a* (which is more like the vowel in the English words *hot, stop* etc.) in the examples in the second set.
 + ***a* tosaigh** *bean, cead, easóg, fear, nead, teas; cas, garbh, fada, fan, hata, tana; ainm, cailc, cailleach, caint, dainséar, gaineamh, Laidin, saill, taisme*
 + ***a* cúil** *abair, Anna, am, bacach, balla, callán, cam, canna, capall, carraig, sac, paca, taca*
 
-### 1.15.2 Raising of the Short *a*
+#### 1.15.2 Raising of the Short *a*
 In several subdialects, especially in the northwest and north of Donegal, and in other parts of Ulster when Irish was spoken in them, the *a* which was in the words below historically, was raised so that it became more like the *e* in English words like *get, help* etc. The raising most often happens before the consonants *d, n, l, t* and *s* both broad and slender.
 + *cas, cat, garbh, fada, fan, gadaí, hata, marbh, tana (tanaí)*
 + *ainm, cailc, dainséar, gaineamh, gaisce, Laidin, saill, taisme*
@@ -319,11 +320,11 @@ The same sound is found in words like *bean, fear* etc. Of course it is a sound 
 The historical vowel is lowered everywehre else. Short *a* is typical in words like those below and I would say the lowering is caused by the nature of the consonant which follows *ea* in the spelling.
 + *bealach, ceart, cearr, ceap, dream, feamnach* (feamainn), *fearthainn, geal, geall, leabaidh* (leaba), *peacadh* (peacadh), *seacht, seachtain, seang, teacht, teampall*
 
-#### Back *a*
+##### Back *a*
 There's a tendency to say back *a* in certain words. This is caused by the nature of the consonants before the *a*. *b, f, m* and *p* tend to be very broad, and often a glide like *w* is heard after them. The broadening and this *w* bring the vowel back.
 + *baile, bainis, faic, faill, maide, maidin, paidir*
 
-#### *ai* = /i/
+##### *ai* = /i/
 In some specific cases, the spelling *ai* is pronounced as /i/. The following is a list of the contexts where /i/ is found.
 
 In the base words
@@ -333,11 +334,11 @@ In the genitive singular/nominative plural
 + *ag tógáil airm, cos an chait, bun an chrainn, barr na slaite*
 + *na cait, na crainn, na daill, na hairm, na glais, na mairbh*
 
-#### *ea* = *io*
+##### *ea* = *io*
 This pronunciation is mostly found before *g.*
 + *beag, beagán, creag, eag* (eang), *ní heagal dó, eagla, An Eaglais, leag, seagal; ceann, leann, seangán*
 
-### 1.15.3 The Raising of *á*
+#### 1.15.3 The Raising of *á*
 The raising that happens to *á* is even more prevelant than the raising of short *a*. The change is gradiated from place to place. Little of the raising happens in the southern half of Donegal, in the Gaeltacht Láir, Gleann Cholmcille, and Teileann. In the northern half of the county, this change is abundant. The quality of the long *á* is the same as that of the short *a* which is raised and which is mentioned above in 1.15.2. The change is most often found before slender consonants and broad *d, r, s* and *t*.
 + *Áine, áit, áithe, báillí, cáil, cáin, cáis, ag fáil, fáilte, Gráinne, láidir, náire, páiste, bád, bás, cás, cár, cnádán, fás, lár, ráta, spás*
 
@@ -352,8 +353,8 @@ Often, even in the areas which don't raise the long *a* before broad consonants,
 | *bál*      | *ag imirt báil*         |
 | *sál*      | *ar mo sháil*           |
 
-## 1.16 The Pronunciation of Consonants
-### 1.16.1 ll/nn/rr and l/n/r
+### 1.16 The Pronunciation of Consonants
+#### 1.16.1 ll/nn/rr and l/n/r
 (a) Anyone who wants to learn the Irish of the north has to grasp reasonably well the distinction between the pronunciations of *ll* and *l*, *nn* and *n*, and *rr* and *r*. This contrast is extremely important in the dialect. Often there is no difference between pairs of words except for the pronounciation of the consonants *ll/l*, nn/n or *rr/r* in them. In order to make *ll* and *nn*, *the whole front of the tongue* is put against the top teeth when they're broad, and against the bottom teeth and the ridge of the teeth when they're slender. To say *l* and *n*, *the tip of the tongue* is put against the ridge of the teeth. Of course, along with tip or the front part of the tongue, the back of the tongue is raised towards the soft palate when saying broad consonants the front of the tongue towards the hard palate when saying slender consonants. Note as well that the vowels in the monosyllabic words below aren't lengthened as they are in other dialects.
 + *gann/gan mionna/miona, donna/dona, leann/lean, léann/mo léan*
 + *fáinne/Áine, sa bhinn/sa mhin, tinneas/tinidh* (tine), *crainn/bain*
@@ -365,7 +366,7 @@ Here are some examples.
 + *corr* (gob)/*cur, tarraing/tar, carraig/cara, i gcarr/gar farraige/arm*
 + *corr/cur/cuir, farraige/faraor/faire, urraim/orm/coirm, barr/ár/báire*
 
-### 1.16.2 Long Vowels before *rr, rd, rn* and *rl*
+#### 1.16.2 Long Vowels before *rr, rd, rn* and *rl*
 The vowel *a* is long in the following words before *rr* this length is often maintained when another syllable is added to the root. Note that the *a* is short before *rr* in words that don't come from a monosyllabic root.
 + long *á* - *barr, carr, carrannaí* (carrannna), *is fearr, ghearr, gearrann,*
 + short *a* - *carraig, , an tEarrach, an fharraige, searrach, tarraing*
@@ -378,8 +379,8 @@ It's also normal to have a long vowel before the groups *rd, rn* and *rl* in the
 The words below have a short vowel
 + *airde, mirlín, murlas, turdán, turlach, turn, uirlis, urnaí*
 
-## 1.17 The Pronunciation of *ch*
-### 1.17.1 Broad *ch*
+### 1.17 The Pronunciation of *ch*
+#### 1.17.1 Broad *ch*
 (a) At the start of words a strong *ch* is heard.
 + *chaith, mo charr/chos/chluas* etc.
 
@@ -392,11 +393,11 @@ The words below have a short vowel
 (d) *ch* is pronounced as */h/*  in the preposition *chun/chuig* and sometimes it's completely left out.
 + *(h)ugam* (chugam), *(h)ugad* (chugat), *(h)uige* (chuige), *na bhaile* (chun an bhaile), *na scoile* (chun na scoile), *a naonaigh* (chun aonaigh) srl.
 
-### 1.17.2 Slender *ch*
+#### 1.17.2 Slender *ch*
 It's said as a strong *ch* in every position, at the start, middle, and end of words usually. There's a certain tendency however to make it into a */h/* between two vowels
 + *cheannaigh, mícheart, mo chead, cluiche, droichead, fiche, Micheál, oíche, ar an chloich* (cloch)
 
-## 1.18 The Pronunciation of Slender *th*
+### 1.18 The Pronunciation of Slender *th*
 Like *h*
 
 (i) At the start of a word
@@ -410,27 +411,27 @@ Like *h* or slender *ch*
 (iii) There's a large tendency to turn slender *th* into slender *ch* in words where the letters *ai/ei/oi* or *ái/éi* are in the stressed syllable. *ai/ei/oi* before *th* is pronounced as a diphthong like in the English word *my*
 + *caith, maith, Na Flaithis, ar leith, léithe* (léi), *ráithe, scoith, snáithe* etc.
 
-## 1.19 *n* to *r*
+### 1.19 *n* to *r*
 (a) Although *n* is written in words like those below, *r* is said. 
 + *cnámh, cnoc, gnách, gnaíúil, gníomh, gnoithe mná, tnúth* etc.
 
 (b) *tsn* is said as *tr* in forms like the following:
 + *snaidhm/an tsnaidhm, snagaireacht/an tsnagaireacht, snámh/ar an tsnámh, snáithe/leis an tsnáithe, sneachta/sa tseachta*
 
-## 1.20 Missing *n*
+### 1.20 Missing *n*
 The *n* is dropped in the following words.
 + *áró* (anró), *bárín* (banrí(o)n), *ichinn* (inchinn), *muichille* (muinchille), *muitir* (muintir), *scáraigh* (scanraigh), *sórú* (sonrú), *sóraitheach* (sonraitheach) etc.
 
-## 1.21 Slenderisation of Consonants
+### 1.21 Slenderisation of Consonants
 Slender consonants are typical at the start of the words below.
 *dheá* (dhá), *a dheath* (a dhath), *cliú* (clú), *dreabhlás* (drabhlás), *driúchta* (drúchta), *scriúdú* (scrúdú), *seórt* (sórt), *tilleadh* (tuilleadh)
 
-## 1.22 The Ending *-(a)ithe*
-### 1.22.1 Second Conjugation Verbs ending in *-(a)igh.*
+### 1.22 The Ending *-(a)ithe*
+#### 1.22.1 Second Conjugation Verbs ending in *-(a)igh.*
 There are two ways in Ulster Irish to make verbal adjective endings from verbs which have *-(a)igh* in the second person singular imperative. I show the two ways using the spelling *-(a)í* and *-(a)iste/-(a)íste.* The sound in *-(a)í* in these endings is the same as the *aí* in the word *urnaí.* In the Official Standard you get the ending *-(a)ithe*.
 + *ceannaí/ceannaiste/ceannaíste* (ceannaithe), *ordaí/ordaiste/ordaíste* (ordaithe), *cruinní/cruinniste/cruinníste* (cruinnithe)
 
-## 1.22.2 Syncopated Verbs
+#### 1.22.2 Syncopated Verbs
 The endings mentioned in 1.22.1 above are added to syncopated verbs ending in *-ir, -in,* for example, *díbir, cogain, imir, rómhair* etc. as well. *-tha* isn't added to them as in the Standard.
 + *díbrí/díbriste/díbríste* (díbeartha)
 + *cognaí/cognaiste/cognaíste* (coganta)
