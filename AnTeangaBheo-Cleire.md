@@ -1,6 +1,6 @@
 # An Teanga Bheo - Gaeilge Chléire
 ## 1. Stress
-**1.1** Stress in on the second syllable if there's a long vowel in that syllable (the stressed syllable is in bold):
+**1.1** Stress is on the second syllable if there's a long vowel in that syllable (the stressed syllable is in bold):
 + *cai**lín**, tái**lliúir**, ga**lún**ach, cai**pí**ní, cea**nnód**sa, bá**dóir**eacht, nó**tál**tha, cea**nnaí**míd.*
 
 **1.1. 1** The stress is on the second syllable if the syllable ends with *- ch(t):*
