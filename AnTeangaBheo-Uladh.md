@@ -184,8 +184,11 @@ Slender *mh/bh* are the same every where, at the start, middle, and end of a wor
 
 In East Ulster, they would have had a short vowel in these as well. Note the word *maidhean* in the well known poem "Úr-Chnoc Chéin Mhic Cáinte".
 > A phlúr na *maighdean* is úire *gné*
+> 
 > Thug clú le *scéimh* ón Adhamhchlainn
+> 
 > A chúl na *bpéarla*, a rún na *héigse*
+> 
 > A dhúblas *féile* is fáilte
 
 ### (b) *ogh/oigh/oidh*
