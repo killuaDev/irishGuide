@@ -1,4 +1,4 @@
-# An Teanga Bheo - Gaeilge Chonnacht
+# An Teanga Bheo - Gaeilge Chonamara
 ## 1. The Dialect
 ### 1.1 Connemara
 This is the name usually given to the part of County Galway which is west of Lough Corrib. Long ago, the name only meant the west side of that area, but now it's usually means the whole area.
