@@ -50,7 +50,8 @@ The stress isn't on *-ach* if *-th-* is the consonant before it or if there's a 
 - *fóg(a)**raíonn** fóg(a)**róig***
   
 Some speakers stress the *-(a)í* in comparative forms of adjectives:
-- ***cúr**amach níos* *cúra**maí**/cúiri**mí***
+- ***cúr**amach*
+- *níos cúra**maí** / cúiri**mí***
   
 However the *-(a)í* isn't stressed in the third syllable if there's a long vowel before it:
 - *sao**ráid**each níos sao**ráid**í*
