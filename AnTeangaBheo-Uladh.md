@@ -123,8 +123,8 @@ but
 + Mánas (M)ag Éidí/Fhionnaile/Íomhair ('g' caol)
 + Eoghan (M)a Giolla Bhríde/Chóill ('c/g' ar lár)
 
-### 1.5 Multisyllabic Words Ending with *'-adh/-amh/-odh*
--(e)adh/-odh/-(e)amh in multisyllabic words are said like the *u* at the end of *Zulu*. They're found words like the following. *ú* is used to show the pronunciation:
+### 1.5 polysyllabic Words Ending with *'-adh/-amh/-odh*
+-(e)adh/-odh/-(e)amh in polysyllabic words are said like the *u* at the end of *Zulu*. They're found words like the following. *ú* is used to show the pronunciation:
 
 (a) Nouns: *molú* (moladh), *bualú* (bualadh), *Samhrú* (Samhradh), *Geimhriú* (Geimhreadh), *talú/tolú* (talamh).
 
@@ -200,7 +200,7 @@ These have the same sound as *agh/aigh/aidh.*
 *eidh/eigh* in the middle of a word is a long vowel like é, likewise with *eadh* before a consonant in a single syllable word:
 + eidhneán, leigheas, leadhb, meadhg
 
-In multisyllabic with *eadh* in the middle, there are two ways to say it (a) as *agh* pronouncin the *gh* as it is at the start of a word, and (b) as a diphthong like in the English word *height*. Usually pronunciation (a) is found among those who have an unrounded *ú* for *ao* and pronunciation (b) among those who say *ao* as *í*.
+In polysyllabic with *eadh* in the middle, there are two ways to say it (a) as *agh* pronouncin the *gh* as it is at the start of a word, and (b) as a diphthong like in the English word *height*. Usually pronunciation (a) is found among those who have an unrounded *ú* for *ao* and pronunciation (b) among those who say *ao* as *í*.
 + *ar feadh, adhradh, is eadh* (is ea), *meadhar* (meidhir), *meadhrach* (meidhreach), *feadhnóg, sleagh* (sleá), *sniodh, teaghlach* and also in the words *saghart* (sagart), *teaghasc* (teagasc)
 
 In you also get a diphthong in *agam, agat, againn* and *agaibh* in Teileann and Gleann Cholm Cille in North Donegal.
@@ -446,3 +446,174 @@ The same system applies to syncopated verbs ending in *-il* except that in their
 + *fosclaí/fosclaiste/fosclaíste*
 + *foscailte/foscalta* (oscailte)
 
+## 2.  Verbs
+### 2.0 Verb Classification
+The verbs are traditionally classified into 2 conugations. Monosyallbic verbs and those ending in *-(e)áil* and a couple of other verbs in the first conjugation. Other verbs which have more than one syllable in their root are put in the second conjugation. The following are samples of the traditional conjugations.
+
+1st Conjugation *bris, mol, faigh, suigh, sábháil, péinteáil, tiomáin, taispeáin.*  
+2nd Conjugation *ceannaigh, imigh, ceangail, imir, foghlaim.*
+
+In the Standard, the endings added to the first and second conjugation verbs are not the same. Those differences apply to the Habitual Present, Habitual Past, Future, the Conditional, especially. Although these differences demanded by the Standard are a reflection of Irish generally, they don't align exactly or entirely with some of the distinctions made in Ulster Irish. We'll describe now the main differences between Ulster Irish and the Standard.
+
+#### The Present Tense
+Classification of the Standard  
+1st Conjugation - *briseann, molann, faigheann, suíonn, sábhálann, péinteálann, tiomáineann, taispeánann.*  
+2nd Conjugation - *ceannaíonn, imíonn, ceanglaíonn, imríonn, foghlaimíonn.*
+
+Regarding Ulster Irish and verb conjugation, there's three types of dialects to distinguish:
+
+(i) Dialects where there's a long or half-length *í* in the ending *-(a)íonn*. This dialects tend to be in the south of Donegal, and this was the norm in Cavan Irish when it was spoken. This pronunciation will be shown with *í.*
++ *ceannaíonn, imíonn, imríonn, ceanglaíonn* etc.
+
+(ii) Dialects where the long *í* is shortened in the ending *-(a)íonn.* Note that this short *i* is pronounced similar to the *ee* in English words like *meet, seat* etc. and not like in words like *sin, sit* etc. These dialects are found in west Donegal. This pronunciation will be shown with *-(a)io-* if needed.
++ *ceannaionn, imionn, imrionn, ceanglaionn* srl.
+
+(iii) Other dialects where there's a neutral vowel in the second syllable. It could be said that the *-(e)ann* ending from the first dialect is used in the second conjugation in these dialects. These dialects are mostly in the east of Donegal, and the east of Ulster. There are areas where there's a mix of (ii) and (iii) in the north west of Donegal. This pronunciation will be shown with the spelling *-(e)ann.*
++ *ceannann, imeann, éireann, ceanglann, codlann* etc.
+
+### 2.1 Conjugation of Verbs which have *-igh*
+#### 2.1.1 Monosyllabic verbs ending with *-igh*
+The *-igh* is only seen in the Standard spelling within the 2nd person singular imperative, and in the past tense. The *-igh* is dropped in the present and future tense for example, and in other tenses and moods. This tendency doesn't fit too well with the pronunciation of these verbs in Ulster Irish generally. Attention should be directed to two traits of this pronunciation:
+
+(a) that the *gh* in the middle of the word is said when there is no other consonant after it. This happens in the Present, Past Habitual, and in the Imperative. There are two syllables in the forms below in Ulster Irish though The Standard doesn't show that.
+
+| The Standard | Ulster Irish | Pronunciation |
+| ------------ | ------------ | ------------- |
+| *léim*       | *léighim*    | *léyim*       |
+| *léadh*      | *léigheadh*  | *léyú*        |
+| *suíonn*     | *suigheann*  | *suiyann* \*  |
+| dódh         | dóigheadh    | dóyú          | 
+
+\* In the case of verbs like *suigh, luigh* etc. which have a short *i*, there's a tendency to make a long *í* out of the *iy*. Often the two syllables are kept in these verbs even when they have the long *í*, like this: *suí-ann*, *luí-ann*, and so on.
+
+(b) In the Future and Conditional the *ghf* is changed as follows:
+
+(i) The *ghf* is made into a *ch*, usually. It is pronounced as a slender *ch* or a *h*.  
+(ii) In Teileann it's pronounced as a slender *f*.
+
+| The Standard | Ulster Irish | Pronunciation    |
+| ------------ | ------------ | ---------------- |
+| *léifidh*    | léighfidh    | léichí/léifí     |
+| léifeadh     | léighfeadh   | léichiú/léifiú   |
+| suífidh      | suighfidh    | suichí/suifí     |
+| dófaidh      | dóighfidh    | dóichí/dóifí     |
+| dhóifeadh    | dhóighfeadh  | dhóichiú/dhóifiú | 
+
+#### 2.1.2 *-idh/igh* Before Pronouns
+There are two pronunciations of *-idh/igh* at the end of a word.
+
+(i) Short or half-length *i* as in the English word *body* is how they're pronounced in answers to questions or when there isn't a personal pronoun after the verb.
+
+(ii) they're made into a neutral vowel, like at the end of the English word *banana*, when before personal pronouns like *mé, tú, sé, sí* etc.
+
+##### (i) Short or half-length *i.*
+Remember that there are two syllables in the endings that correspond to the Standard's *-óidh/-eoidh* in Ulster Irish, in the (b) samples below. They will all use the spelling *-(e)ochaidh.*
+
+(a) 
++ *Ar chualaidh Séan é? Níor/Char chualaidh.* (chuala)
++ *An bhfacaidh Máire an litir? Ní/Chan fhacaidh.* (bhfaca, fhaca)
++ *An mbuailfidh do mháthair leo? Buailfidh.*
+
+(b)
++ *An gceannochaidh Pádraig iad? Ní cheannochaidh.* (gceannóidh, cheannóidh).
++ *An inseochaidh Síle dó é? Inseochaidh* (inseoidh).
+
+(c)
++ *Ar cheannaigh an fear an carr? Níor/Char cheannaigh.*
++ *Ceannaigh amárach é.*
+
+##### Neutral vowel.
+What's between the () isn't said.
+(a) 
++ *Ar chuala(idh) tú an scéal? Chualaidh.*
++ *An bhfaca(idh) sí fear an bhus? Ní fhacaidh.*
+
+(b)
++ *Brisfi(dh) tú an fhuinneog.*
++ *An gceannocha(idh) sibh an leabhar?* (gceannóidh)
++ *Tá súil agam nach n-inseocha(idh) siad é.* (n-inseoidh)
+
+(c)
++ *Cheanna(igh) siad teach eile.*
++ *Ar imi(gh) sé go fóill?*
+
+(d)
++ *Be(idh) mé leat anois*
++ *Lé(igh) muid an leabhar.*
++ *Chua(igh) sé a luí luath.*
+
+#### 2.1.3 Pronunciation of broad *dh* before certain pronouns
+There's an important rule about the pronunciation fo the endings *-adh/-odh* in Ulster irish before pronouns/adjectives starting with *s*, when they are a **subect** in the sentence.
+
+The *dh* is made into a slender *t* before the personal pronouns *sé/sí/sinn/sibh/siad* and the demonstrative pronouns *sin/seo/siúd.*
+
+| Spelling                       | Pronunciation                |
+| ------------------------------ | ---------------------------- |
+| *Mholfadh sé/sí thú.*          | *Mholhait sé/sí thú.*        |
+| *Buaileadh siad bóthar*        | *Buailit siad bóthar.*       |
+| *Bhíodh sí ann*                | *Bhít sí ann.*               |
+| *Ná cuireadh sin isteach ort.* | *Ná cuirit sin isteach ort.* | 
+
+This change doesn't happen before any other words starting with *s* and it doesn't happen before *sinn/sibh/sin/seo/siúd* when they are an **object** in the sentence.
+
+| Spelling                   | Pronunciation            |
+| -------------------------- | ------------------------ |
+| *D'íosfadh Seán é*         | *D'íosú Seán é.*         |
+| *Bhíodh Síle ann.*         | *Bhíú Síle ann.*         |
+| *Ar buaileadh sibh aréir?* | *Ar buailiú sibh aréir?* |
+| *Cuireadh sin ina leith*   | *Cuiriú sin ina leith.*  |
+
+### 2.2 Polysyllabic Verbs
+#### 2.2.1 The endings *-(e)ochaidh/-(e)ochadh*
+Regarding verbs like *ceannaigh, éirigh, ceangail, inis, iompair* etc. there are two syllables in the endings that go with them in the Future and Conditional. These are historical endings, of course, and they are written as *-(e)ochaidh* here. The *ch* in them is usually pronounced as a *h*. The endings could be written as *-(e)achaidh* as well, because they're said like that often. According to Wagner's Atlas, Volume IV, however, the two pronunciations are common.
+
+| The Standard | Ulster Irish    | Pronunciation           |
+| ------------ | --------------- | ----------------------- |
+| *ceannóidh*  | *ceannochaidh*  | *ceannohí/ceannahí*     |
+| *cheannódh*  | *cheannochadh*  | *cheannohú/cheannahú*   |
+| *ceanglóidh* | *ceanglochaidh* | *ceanglohí/ceanglahí*   |
+| *cheanglódh* | *cheanglochadh* | *cheanglohú/cheanglahú* |
+| *inseoidh*   | *inseochaidh*   | *inseohí/inseahí*       |
+| *d'inseoinn* | *d'inseochainn* | *dinseohinn/dinseahinn* | 
+
+#### 2.2.2 Syncopated verbs
+Verbs like *ceangail, inis, imir, iompair* etc. are called syncopated verbs because the second syllable is dropped when another syllable starting with a vowel is added to them in various tenses. The Official Standard puts these verbs in the second conjugation, which means that *-(e)oidh/-óidh* and *-eodh/ódh* are the endings that go with them in the Future and Conditional, respectively. That's the conjugation that they're in in Ulster Irish for the most part too. In certain subdialects, Teileann for example, they are conjugated in a different way as shown below.
+
+| The Standard | Teileann Irish |
+| ------------ | -------------- |
+| *ceanglóidh* | *ceangalaidh*  |
+| *imreoidh*   | *imeraidh*     |
+| *cosain*     | *cosanaidh*    |
+
+The vowel in the second syllable of those verbs above is like *a* in the word *mac*. These versions are only said by old speakers. The endings discussed in 2.2.1 were said by young speakers.
+
+### 2. 3 Personal endings
+#### 2.3.1 The first conjugation
++ *-(e)am, -(a)imid/-(e)amaid, -(a)imis(t)/-(e)amais(t).*  
+These are the most common personal endings in Ulster Irish outside of the specific endings in the Conditional Mood. Independent pronouns can be used in place of any of them as well.
++ *briseam - briseann mé*
++ *brisimid/briseamaid - briseann muid*
++ *brisfimid/brisfeamaid - brisfidh muid*
++ *bhrisfimis(t)/bhrisfeamais(t) - bhrisfeadh muid*
+
+#### 2.3.2 The second conjugation
+This is how the endings are with second conjugation verbs.
++ *ceannaíom/ceannam - ceannaíonn/ceannann mé*
++ *ceannaímid/ceannaimid - ceannaíonn/ceannann muid*
++ *ceannaíomaid/ceannamaid* - *ceannaíonn/ceannann muid*
++ ceannochaimid/ceannochamaid - ceannocha(idh) muid
++ *cheannochaimis(t)/cheannochamais(t) - cheannochadh muid*
+
+### 2.4 Synthetic endings
+In a few subdialects, special forms are used in answers. Wagner (1959) mentions this about Teileann Irish. The forms are found in the same model in the writing of Ulster Authors. These forms end in *-as* (Past) and *-ad* (Future). Here's how they're used and remember that they are common to every verb.
++ *Ar thuig tú sin? - Thuigeas/Níor thuigeas.*
++ *An bhfaca tú an bád? - Chonaiceas.*
++ *An ndéanfaidh tú é? - Dhéanfad*
+
+Regarding the Standard's *-idís,* the analytic form is used in the Conditional/Imperative/Past Habitual across Ulster. 
++ *Dhíolfadh siad an teach*
++ *Bíodh siad agat ar maidin.*
++ *D'olfadh siad a sáith*
++ *Thigeadh siad chun an bhaile san Fhómhar.*
++ *Óladh siad a sáith.*
++ *Bhíodh siad ag caint air.*
