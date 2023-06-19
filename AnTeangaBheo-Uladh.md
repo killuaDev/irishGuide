@@ -506,7 +506,7 @@ There are two pronunciations of *-idh/igh* at the end of a word.
 
 (ii) they're made into a neutral vowel, like at the end of the English word *banana*, when before personal pronouns like *mé, tú, sé, sí* etc.
 
-##### (i) Short or half-length *i.*
+**(i) Short or half-length *i.***
 Remember that there are two syllables in the endings that correspond to the Standard's *-óidh/-eoidh* in Ulster Irish, in the (b) samples below. They will all use the spelling *-(e)ochaidh.*
 
 (a) 
@@ -522,7 +522,7 @@ Remember that there are two syllables in the endings that correspond to the Stan
 + *Ar cheannaigh an fear an carr? Níor/Char cheannaigh.*
 + *Ceannaigh amárach é.*
 
-##### Neutral vowel.
+**Neutral vowel.**
 What's between the () isn't said.
 (a) 
 + *Ar chuala(idh) tú an scéal? Chualaidh.*
@@ -617,3 +617,255 @@ Regarding the Standard's *-idís,* the analytic form is used in the Conditional/
 + *Thigeadh siad chun an bhaile san Fhómhar.*
 + *Óladh siad a sáith.*
 + *Bhíodh siad ag caint air.*
+
+### 2.5 The Historical Present
+Something which is still alive in many Ulster consonants is the historical ending *-idh* in verbs. Even though it's a part of a specific register of the language (story telling, describing an event which happened already), it's heard fairly often. It's typical to use this form in the third person singular/plural.
++ *T(ch)í sé an fear ag teacht chuige.*
++ *T(ch)í Dia go bhfuil dóigh chéasta orainn.*
++ *Leis sin buailidh sé a bhuille.*
++ *Leanaidh an t-éan daoithe mar sin. Tigidh siad Dé Luain agus an t-airgead leo.*
+
+The form *t(ch)í* is used in every person of the verb except perhaps the first person singular.
++ *T(ch)í sibh féin é, nach bhfeiceann?*
++ *T(ch)í muid go leor dó.*
++ *T(ch)í tú féin iad chomh maith liomsa.*
+
+### 2.6 The Relative Ending
+Although this is referenced in the Standard, it barely displayed through examples. Despite that, it is common in Ulster Irish when there's a direct relative clause. These endings apply to the Present and Future.
++ *Sin an fear a **bhíos** anseo.*
++ *Ní hiad na fir mhóra a **bhaineas** an Fómhar.*
++ *Is beag an rud a **níos** cuidiú.*
+  
++ *Is iomaí rud a **thógas** cian de dhaoine.*
++ *Goidé a dhéanfas tú nuair **thiocfas** an geimhreadh?*
++ *Cé a **déarfas** nach bhfuil an ceart agat?*
++ *Is iomaí duine a **cheannochas** iad.*
++ *Cén uair a **imreochas** siad a chéile?*
++ *Is é an Taoiseach a **(fh)osclochas** An Fhéile.*
+
+#### 2.6.1 Option
+When time phrases or words referencing time like *uair, am, lá, oíche, bliain* etc. are used, there's an option for whether to use the relative ending or not.
++ *Nuair a **bheas/bheidh** tú ann, ceannaigh an páipéar.*
++ *Cén t-am a **thiocfas/thiocfaidh** tú amárach?*
++ *Cé acu lá a **bhíos/bhíonn** sé anseo?*
++ *Sin an uair a **cheannochas/cheannochaidh** daoine iad*.
+
+The forms *a dtiocfaidh/mbíonn/gceannochaidh* can also be used with *nuair.*
+
+#### 2.6.2 Other Traits
+(a) Often, the relative ending *s* is put after *-(e)ann/-(a)íonn.*
++ *An té a **bhíonns** thíos inniu beidh sé thuas amárach.*
++ *Is cuma cé a **cheannaíonns** iad faigheann siad locht orthu.*
++ *Is iomaí duine a **théanns** ar strae ann.*
+
+(b) Often the first consonant of the verb isn't lenited when the relative ending is used, this happens especially with the forms of the verb *'Bí'.*
++ *Is minic a **b(h)íos** sé ag caint air.*
++ *Nuair a **t(h)iocfas** sé.*
++ *An té a **c(h)oinneochas** an phingin coinneochaidh sé an punt.*
+
+### 2.7 The subjunctive past/present mode
+There are many artifacts of this mode found in Ulster Irish. They are in 2nd conjugation verbs.
+
+#### 2.7.1 The present subjunctive
+Although there are two spellings for the following verb endings, they're pronounced the same. They're pronounced like a short i, but with the quality of the long vowel *í.*
+
+(a) The first conjugation
++ *Fan go **mbrisidh** an aimsir.* (mbrise)
++ *Fan go **gcuiridh** Seán as an solas.* (gcuire)
++ *Fan go **n-ólaidh** Máire an tae.* (n-óla)
++ *Fan go **ndéanaidh** na páistí a ndinnéar.* (ndéana)
++ *Fan go **n-ithidh** Síle a cuid.* (n-ithe)
+
+(b) The second conjugation
+*Suigh ansin go **n-imí** na páistí; go **gceannaí** do mháthair na bróga.*
+
+(c) Special form
+*Mur(a) **mbidh** an lá amárach maith ní rachaidh mé go Leitir Ceanainn.*
+
+When a pronoun follows the verb, the last vowel in the verb is like *e* in the word *míl**e*** or *a* in the word *mál**a**.* This change before pronouns is shown using the spelling in the above examples. This last rule is the most common in Donegal Irish but it seems like the *-aí* in verbs isn't reduced before pronouns in Teileann Irish according to Wagner (1959, 83-84).
+
+The first declension
++ *Suigh go **n-óla** mé mo chuid tae.*
++ *Fan go **bhfeice** tú an dtiocfaidh sé.*
++ *Mur(a) **dtuga** sé ar ais an t-airgead cuirfear chun an phríosúin é.*
++ *Mur(a) **dtige** sé roimh i bhfad imeochaimid chun an bhaile.*
++ *Suigh síos go ndéana muid ár scríste tamall.*
+
+The second declension
++ *Fan go **gceanna mé/gceannaí mé** cúpla buidéal bainne.*
++ *Mur(a) **n-ime/nimí** sé go luath caillfimid an bus*
+
+#### 2.7.2 The past subjunctive
+The endings for the past subjunctive and past habitual are the same. It's most used with *dá* but it's also used with *go/nach.*
++ ***Dá dtéadh** sé chun an bhaile in am bhí sé sábháilte.*
++ ***Dá gcuireadh** sé isteach ar an jab seans go bhfaigheadh sé é.*
++ *Hobair **go n-itheadh** an madadh mé.*
++ *Mo thrua **go mbíodh** sé amhlaidh.*
++ ***Dá mbíodh** iomrá air, a chroí, ach cha raibh.*
+
+### 2.8 Regular Verb Forms
+The inflected forms of the verbs *cuireann, dóigheann* (dónn), *ceannaíonn* and *ceanglaíonn* are given in the tables below. There are other forms called *compound tenses*. The Verbal Noun or Verbal Adjective are used in these compound tenses, and a form of the verb *bí* is used as an auxilliary verb.
+
+#### 2.8.1 Verb tables
+At the top of every table below, the form used when a personal noun or normal noun is the subject of the sentence is shown. The forms are put into three columns, the singular on the lefthand side, the plural in the centre and the autonomous in the third column.
+
+#### 2.8.2 The first conjugation
+
+##### Cuir
+**Present:** *cuireann*
+
+| Singular                        | Plural                                   | Autonomous |
+| ------------------------------- | ---------------------------------------- | ---------- |
+| *1. cuirim/cuiream/cuireann mé* | *cuirimid/cuireamaid/cuireann muid/sinn* |            |
+| *2. cuireann tú*                | *cuireann sibh*                          |            |
+| *3. cuireann sé/sí*             | *cuireann sibh*                          |     *cuirtear*       |
+
+**Past:** *chuir*
+
+| Singular         | Plural            | Autonomous |
+| ---------------- | ----------------- | ---------- |
+| *1. chuir mé*    | *chuir muid/sinn* |            |
+| *2. chuir tú*    | *chuir sibh*      |            |
+| *3. chuir sé/sí* | *chuir siad*      | *cuiriú/cuireas* \*           |
+
+**Habitual Past:** *chuiriú*
+
+| Singular               | Plural                        | Auotonomous |
+| ---------------------- | ----------------------------- | ----------- |
+| *1. chuirinn*          | *chuirimis(t)/chuireamais(t)* |             |
+| *2. chuirteá/cuirtheá* | *chuirit sibh*                |             |
+| *3. chuirit sé/sí*     | *chuirit siad*                | *chuirtí*   | 
+
+**Future:** *cuirhí*
+
+| Singular          | Plural                       | Autonomous |
+| ----------------- | ---------------------------- | ---------- |
+| *1. cuirhe mé*    | *cuirhimid/cuirhe muid/sinn* |            |
+| *2. cuirhe tú*    | *cuirhe sibh*                |            |
+| *3. cuirhe sé/sí* | *cuirhe siad*                | *cuirhear* | 
+
+**Conditional:** *chuirhiú*
+
+| Singular            | Plural                                                        | Autonomous |
+| ------------------- | ------------------------------------------------------------- | ---------- |
+| *1. chuirhinn*      | *chuirhimis(t)/chuirheamaist/chuirhiú/chuirheas muid/sinn* \* |            |
+| *2. chuirheá*       | *chuirhit sibh*                                               |            |
+| *3. chuirhit sé/sí* | *chuirhit siad*                                               | *chuirhí/chuirfí*           |
+
+**Imperative**: *cuiriú*
+
+| Singular          | Plural                      | Autonomous |
+| ----------------- | --------------------------- | ---------- |
+| *1. -----*        | *cuirimis(t)/cuireamais(t)* |            |
+| *2. cuir*         | *cuirigí*                   |            |
+| *3. cuirit sé/sí* | *cuirit siad*               | *cuirtear* | 
+
+**Present subjunctive:** *go gcuirí*
++ *Fan go gcuirí Seán as an solas.*
++ *Fan go gcuire mé as an solas.*
++ *go gcuirtear*
+
+**Past subjunctive:** *dá gcuiriú*
+
+| Singular                  | Plural                           | Autonomous   |
+| ------------------------- | -------------------------------- | ------------ |
+| *1. dá gcuirinn*          | *dá gcuirimis(t)/gcuireamais(t)* |              |
+| *2. dá gcuirteá/guirtheá* | *dá gcuirit sibh*                |              |
+| *3. dá gcuirit sé/sí*     | *dá gcuirit siad*                | *dá gcuirtí* |
+
+\* *s* is very common in these endings. In the case of the Past tense  it's probably the *s* from the irregular verbs *chonaiceas, fuarthas* etc. In the case of the Conditional Mode it's hard to say what causes the *s.* *cuiriús/chuirhiús* are also said.
+
+**Verbal Noun:** *ag cur*  
+**Verbal Adjective:** *curtha*
+
+#### 2.8.3 The second conjugation
+
+##### Ceannaigh
+**Present:** *ceannann*
+
+| Singular                 | Plural                                     | Autonomous                 |
+| ------------------------ | ------------------------------------------ | -------------------------- |
+| *1. ceannam/ceannann mé* | *ceannaimid/ceannamaid/ceannann muid/sinn* |                            |
+| *2. ceannann tú*         | *ceannann sibh*                            |                            |
+| *3. ceannann sé/sí*      | *ceannann sibh*                            | *ceannaíthear/ceannaítear* | 
+
+**Teileann:** *ceannaíonn*
+
+| Singular                    | Plural                    | Autonomous |
+| --------------------------- | ------------------------- | ---------- |
+| *1 ceannaíom/ceannaíonn mé* | *ceannaímid/ceannaíomaid* |            |
+| *2. ceannaíonn tú*          | *ceannaíonn sibh*         |            |
+| *3. ceannaíonn sé/sí*       | *ceannaíonn siad*         |            |
+
+**Past:** *cheannaí*  
+- *Cheanna mé/tú/sí* etc.  
+- *Ceannaíú(s)/ceannú(s)/ceannas*
+
+**Past Habitual:** *cheannú*
+
+| Singular             | Plural                         | Autonomous   |
+| -------------------- | ------------------------------ | ------------ |
+| *1. cheannainn*      | *cheannú muid, cheannait sinn* |              |
+| 2. *cheannathá*      | *cheannait sibh*               |              |
+| *3. cheannait sé/sí* | *cheannait siad*               | *cheannaití* |
+
+**Teileann:** *cheannaíú*
+
+| Singular             | Plural           | Autonomous   |
+| -------------------- | ---------------- | ------------ |
+| *1. cheannaínn*      | *cheannaíú muid* |              |
+| *2 cheannaítheá*     | *cheannaít sibh* |              |
+| *3. cheannaít sé/sí* | *cheannaít siad* | *cheannaítí* |
+
+**Future:** *ceannochaí*
+
+| Singular            | Plural                        | Autonomous   |
+| ------------------- | ----------------------------- | ------------ |
+| *1. ceannocha mé*   | *ceannochaimid/ceannochamaid* |              |
+| *2 ceannocha tú*    | *ceannocha sibh*              |              |
+| *3. ceannoch sé/sí* | *ceannocha siad*              | *ceannochar* | 
+
+**Conditional:** *cheannochú*
+
+| Singular                | Plural                               | Autonomous                                 |
+| ----------------------- | ------------------------------------ | ------------------------------------------ |
+| *1. cheannochainn*      | *cheannochaimis(t)/cheannochús muid* |                                            |
+| *2. cheannochá*         | *cheannochait sibh*                  |                                            |
+| *3. cheannochait sé/sí* | *cheannochait siad*                  | *cheannochaí, cheanno(ch)fí* \* (Teileann) | 
+
+\* Consider that usually the *och* in *-ocha-* is pronounced as *ah* in the Future and Conditional. The pronunciation with *f* is given in relation to *Teileann* and areas in the south of Donegal.
+
+**Imperative:** *ceannú*
+
+| Singular                    | Plural                                                  | Autonomous       |
+| --------------------------- | ------------------------------------------------------- | ---------------- |
+| *1. \_\_\_\_\_\_\_\_\_\_\_* | *ceannaimis(t)/ceannamais(t) ceannú muid/ceannait sinn* |                  |
+| *2. ceannaí é*              | *ceannaigí*                                             |                  |
+| *3. ceannait sé/sí*         | *ceannait siad*                                         | *ceannaít(h)ear* | 
+
+**Teileann:** *ceannaí/ceannaígí/ceanaímis(t)/ceannaít sé/sí* etc.
+
+**Present subjunctive:** *go gceannaí*
+- *Fan go gceannaí Seán an carr.*
+- *Suigh síos go gceanna mé ceapaire.*
+- *go gceannaít(h)ear*
+
+**Past subjunctive:** *dá gceannú*
+
+| Singular                | Plural                             | Autonomous      |
+| ----------------------- | ---------------------------------- | --------------- |
+| *1. dá gceanainn*       | *dá gceannaimis(t)/gceannamais(t)* |                 |
+| *2. dá gceannathá*      | *dá gceannait sibh*                |                 |
+| *3. dá gceannait sé/sí* | *dá gceannait siad*                | *dá gceannaití* | 
+
+**Teileann:** *dá gceannaíú*  
+
+| Singular                | Plural                               | Autonomous      |
+| ----------------------- | ------------------------------------ | --------------- |
+| *1. dá gceannaínn*      | *dá gceannaímis(t)/gceannaíomais(t)* |                 |
+| *2. dá gceannaítheá*    | *dá gceannaít sibh*                  |                 |
+| *3. dá gceannaít sé/sí* | *dá gceannaít siad*                  | *dá gceannaítí* | 
+
+**Verbal noun:** *ag ceannach(t)*
+
+**Verbal adjective:** *ceannaí/ceannaiste/ceannaíste*
