@@ -711,7 +711,7 @@ At the top of every table below, the form used when a personal noun or normal no
 
 #### 2.8.2 The first conjugation
 
-##### Cuir
+**Cuir**
 **Present:** *cuireann*
 
 | Singular                        | Plural                                   | Autonomous |
@@ -780,7 +780,7 @@ At the top of every table below, the form used when a personal noun or normal no
 
 #### 2.8.3 The second conjugation
 
-##### Ceannaigh
+**Ceannaigh**
 **Present:** *ceannann*
 
 | Singular                 | Plural                                     | Autonomous                 |
@@ -803,7 +803,7 @@ At the top of every table below, the form used when a personal noun or normal no
 
 **Past Habitual:** *cheannú*
 
-| Singular             | Plural                         | Autonomous   |
+|                      |                                |    |
 | -------------------- | ------------------------------ | ------------ |
 | *1. cheannainn*      | *cheannú muid, cheannait sinn* |              |
 | 2. *cheannathá*      | *cheannait sibh*               |              |
@@ -811,7 +811,7 @@ At the top of every table below, the form used when a personal noun or normal no
 
 **Teileann:** *cheannaíú*
 
-| Singular             | Plural           | Autonomous   |
+|                      |                  |    |
 | -------------------- | ---------------- | ------------ |
 | *1. cheannaínn*      | *cheannaíú muid* |              |
 | *2 cheannaítheá*     | *cheannaít sibh* |              |
@@ -819,29 +819,29 @@ At the top of every table below, the form used when a personal noun or normal no
 
 **Future:** *ceannochaí*
 
-| Singular            | Plural                        | Autonomous   |
+|                     |                               |    |
 | ------------------- | ----------------------------- | ------------ |
 | *1. ceannocha mé*   | *ceannochaimid/ceannochamaid* |              |
 | *2 ceannocha tú*    | *ceannocha sibh*              |              |
-| *3. ceannoch sé/sí* | *ceannocha siad*              | *ceannochar* | 
+| *3. ceannoch sé/sí* | *ceannocha siad*              | *ceannochar* |
 
 **Conditional:** *cheannochú*
 
-| Singular                | Plural                               | Autonomous                                 |
+|                         |                                      |                                  |
 | ----------------------- | ------------------------------------ | ------------------------------------------ |
 | *1. cheannochainn*      | *cheannochaimis(t)/cheannochús muid* |                                            |
 | *2. cheannochá*         | *cheannochait sibh*                  |                                            |
-| *3. cheannochait sé/sí* | *cheannochait siad*                  | *cheannochaí, cheanno(ch)fí* \* (Teileann) | 
+| *3. cheannochait sé/sí* | *cheannochait siad*                  | *cheannochaí, cheanno(ch)fí* \* (Teileann) |
 
 \* Consider that usually the *och* in *-ocha-* is pronounced as *ah* in the Future and Conditional. The pronunciation with *f* is given in relation to *Teileann* and areas in the south of Donegal.
 
 **Imperative:** *ceannú*
 
-| Singular                    | Plural                                                  | Autonomous       |
+|                             |                                                         |                  | 
 | --------------------------- | ------------------------------------------------------- | ---------------- |
 | *1. \_\_\_\_\_\_\_\_\_\_\_* | *ceannaimis(t)/ceannamais(t) ceannú muid/ceannait sinn* |                  |
 | *2. ceannaí é*              | *ceannaigí*                                             |                  |
-| *3. ceannait sé/sí*         | *ceannait siad*                                         | *ceannaít(h)ear* | 
+| *3. ceannait sé/sí*         | *ceannait siad*                                         | *ceannaít(h)ear* |
 
 **Teileann:** *ceannaí/ceannaígí/ceanaímis(t)/ceannaít sé/sí* etc.
 
@@ -852,20 +852,191 @@ At the top of every table below, the form used when a personal noun or normal no
 
 **Past subjunctive:** *dá gceannú*
 
-| Singular                | Plural                             | Autonomous      |
+|                         |                                    |                 | 
 | ----------------------- | ---------------------------------- | --------------- |
 | *1. dá gceanainn*       | *dá gceannaimis(t)/gceannamais(t)* |                 |
 | *2. dá gceannathá*      | *dá gceannait sibh*                |                 |
-| *3. dá gceannait sé/sí* | *dá gceannait siad*                | *dá gceannaití* | 
+| *3. dá gceannait sé/sí* | *dá gceannait siad*                | *dá gceannaití* |
 
 **Teileann:** *dá gceannaíú*  
 
-| Singular                | Plural                               | Autonomous      |
+|                         |                                      |                 | 
 | ----------------------- | ------------------------------------ | --------------- |
 | *1. dá gceannaínn*      | *dá gceannaímis(t)/gceannaíomais(t)* |                 |
 | *2. dá gceannaítheá*    | *dá gceannaít sibh*                  |                 |
-| *3. dá gceannaít sé/sí* | *dá gceannaít siad*                  | *dá gceannaítí* | 
+| *3. dá gceannaít sé/sí* | *dá gceannaít siad*                  | *dá gceannaítí* |
 
 **Verbal noun:** *ag ceannach(t)*
 
 **Verbal adjective:** *ceannaí/ceannaiste/ceannaíste*
+
+**Ceangail**
+
+**Present:** *ceanglann*
+
+|                   |                                               |                 |
+| ----------------- | --------------------------------------------- | ------------------------- |
+| *1. ceanglam*     | *ceanglaimid/ceanglamaid/ceanglann muid/sinn* |                           |
+| *2. ceanglann tú* | *ceanglann sibh*                              |                           |
+| *3. ceanglann sé* | *ceanglann siad*                              | *ceangailtear/ceangaltar* |
+
+**Teileann:** *ceanglaíonn*
+
+|                        |                                              |                   | 
+| ---------------------- | -------------------------------------------- | ----------------- |
+| *1. ceanglaíom*        | *ceanglaímid/ceanglaíomaid/ceanglaíonn muid* |                   |
+| *2. ceanglaíonn tú*    | *ceanglaíonn sibh*                           |                   |
+| *3. ceanglaíonn sé/sí* | *ceanglaíonn siad*                           | *ceanglaít(h)ear* |
+
+**Past:** *cheangail*
+
+|                      |                       |           |
+| -------------------- | --------------------- | ------------------- |
+| *1. cheangail mé*    | *cheangail muid/sinn* |                     |
+| *2. cheangail tú*    | *cheangail sibh*      |                     |
+| *3. cheangail sé/sí* | *cheangail siad*      | *ceanglú/ceanglaíú* |
+
+**Past habitual:** *cheanglú*
+
+|                        |                                   |                 |
+| ---------------------- | --------------------------------- | ------------------------- |
+| *1. cheanglainn*       | *cheanglaimis(t)/cheanglamais(t)* |                           |
+| *2. cheanglathá*       | *cheanglait sibh*                 |                           |
+| *3. cheannglait sé/sí* | *cheanglait siad*                 | *cheangailtí/cheangaltaí* |
+
+**Teileann:** *cheanglaíú*
+
+|                       |                                     |                  |
+| --------------------- | ----------------------------------- | -------------------------- |
+| *1. cheanglaínn*      | *cheanglaímis(t)/cheanglaíomais(t)* |                            |
+| *2. cheanglaítheá*    | *cheanglaít sibh*                   |                            |
+| *3. cheanglaít sé/sí* | *cheanglaít siad*                   | *cheanglaítí/cheanglaístí* |
+
+**Future:** *ceanglochaí*
+
+|                       |                                 |     |
+| --------------------- | ------------------------------- | ------------- |
+| *1. ceanglocha mé*    | *ceanglochaimid/ceanglochamaid* |               |
+| *2. ceangloch tú*     | *ceanglocha sibh*               |               |
+| *3. ceanglocha sé/sí* | *ceanglocha siad*               | *ceanglochar* |
+
+**Teileann:** *ceangal(h)aí*
++ *ceangal(h)a mé/tú* srl.
+
+**Conditional mood:** *cheanglochú*
+
+|                          |                                                           |                   |
+| ------------------------ | --------------------------------------------------------- | --------------------------- |
+| *1. cheanglochainn*      | *cheanglochaimis(t)/cheanglochamaist/cheanglochú(s) muid* |                             |
+| *2. cheanglochá*         | *cheanglochait sibh*                                      |                             |
+| *3. cheanglochait sé/sí* | *cheanglochait siad*                                      | *cheanglochaí, cheangóilfí* |
+
+**Imperative mood:** *ceanglú*
+
+|                      |                                 |                           | 
+| -------------------- | ------------------------------- | ------------------------- |
+| *1. \_\_\_\_\_*      | *ceanglaimis(t)/ceanglamais(t)* |                           |
+| *2. ceangail*        | *ceanglaigí*                    |                           |
+| *3. ceanglait sé/sí* | *ceanglait siad*                | *ceangailtear/ceangaltar* |
+
+**Teileann**
++ *ceangail/ceanglaígí/ceanglaímis(t)/ceanglaít sé/sí /siad, ceanglít(h)ear.*
+
+**Present Subjunctive:** *go gceanglaí
++ *go gceangla mé/tú* etc.
++ *go gceanglaí Seán*
++ *go gceangailtear/gceangaltar/gceanglít(h)ear*
+
+**Caite:** *dá gceanglú*
+
+|                          |                                      |                              | 
+| ------------------------ | ------------------------------------ | ---------------------------- |
+| *1. dá gceanglaínn*      | *dá gceanglaímis(t)/gceanglaíomaist* |                              |
+| *2. dá gceanglathá*      | *dá gceanglait sibh*                 |                              |
+| *3. dá gceanglait sé/sí* | *dá gceanglait siad*                 | *dá gceangailtí/gceangaltaí* |
+
+**Teileann:** *dá gceangalú*
+
+|                           |                                      |                               | 
+| ------------------------- | ------------------------------------ | ----------------------------- |
+| *1. dá gceanglaínn*       | *dá gceanglaímis(t)/gceanglaíomaist* |                               |
+| *2. dá gceanglaítheá*     | *dá gceanglaít sibh*                 |                               |
+| *3. *dá gceangláit sé/sí* | *dá gceanglaít siad*                 | *dá gceanglaítí/gceanglaístí* |
+
+**Verbal noun:** *ag ceangal*
+**Verbal adjective:** *ceangailte/ceangalta, ceanglaí/ceanglaiste/ceanglaíste*
+
+#### 2.8.4 Monosyllabic verbs ending in *-igh*
+**Dóigh**
+
+**Present:** *dóyann*
+
+|                      |                     |           | 
+| -------------------- | ------------------- | --------- |
+| *1. dóyam/dóyann mé* | *dóyimid/dóyeamaid* |           |
+| *2. dóyann tú*       | *dóyann sibh*       |           |
+| *3. dóyann sé/sí*    | *dóyann siad*       | *dóitear* |
+
+**Past:** *dhóy*
+
+|                   |                    |              | 
+| ----------------- | ------------------ | ------------ |
+| *1. dhó(y) mé*    | *dhó(y) muid/sinn* |              |
+| *2. dhó(y) tú*    | *dhó(y) sibh*      |              |
+| *3. dhó(y) sé/sí* | *dhó(y) siad*      | *dóyú/dóyas* |
+
+**Habitual Past:** *dhóyú*
+
+|                   |                             |                 |
+| ----------------- | --------------------------- | --------------- |
+| *1. dhóyinn*      | *dhóyimis(t)/dhóyeamais(t)* |                 |
+| *2. dhóit(h)eá*   | *dhóyit sibh*               |                 |
+| *3. dhóyit sé/sí* | *dhóyit siad*               | *dhóití/dhóytí* | 
+
+**Future:** *dóichí*
+
+|                   |                         |            |
+| ----------------- | ----------------------- | ---------- |
+| *1. dóiche mé*    | *dóichimid/dóicheamaid* |            |
+| *2. dóiche tú*    | *dóiche sibh*           |            |
+| *3. dóiche sé/sí* | *dóiche siad*           | *dóichear* | 
+
+**Teileann:** *dóifí*
++ *dóife mé/tú* etc.
++ *dóifimid/dóifeamaid*
++ *dóifear*
+
+**Conditional Mood:** *dhóichiú*
+
+|                     |                                 |           |
+| ------------------- | ------------------------------- | --------- |
+| *1. dhóichinn*      | *dhóichimis(t)/dhóicheamais(t)* |           |
+| *2. dhóicheá*       | *dhóichit sibh*                 |           |
+| *3. dhóichit sé/sí* | *dhóichit siad*                 | *dhóichí* | 
+
+**Teileann:** *dhóifiú*
++ *dhóifinn, dhóifeá* etc.
++ *dhóifí*
+
+**Imperative Mood:** *dóyú*
+
+|                  |                           |     |
+| ---------------- | ------------------------- | --- |
+| *1. \_\_\_\_*    | *dóyimis(t)/dóyeamais(t)* |     |
+| *2. dóy*         | *dóyigí*                  |     |
+| *3. dóyit sé/sí* | *dóyit siad*              | dóitear    |
+
+**Present subjunctive:** *go ndóyí*
++ *Fan go ndóye mé/tú* etc.
++ *Go ndóitear go talamh é.*
+
+**Past Subjunctive:** *dá ndóyú*
+
+|                      |                                |             |
+| -------------------- | ------------------------------ | ----------- |
+| *1. dá ndóyinn*      | *dá ndóyimis(t)/ndóyeamais(t)* |             |
+| *2. dá ndóit(h)eá*   | *dá ndóyit sibh*               |             |
+| *3. dá ndóyit sé/sí* | *dá ndóyit siad*               | *dá ndóití* | 
+
+**Verbal noun:** *ag dóú*  
+**Verbal adjective:** *dóite, dóití*
