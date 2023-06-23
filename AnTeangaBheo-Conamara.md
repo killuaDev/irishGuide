@@ -52,7 +52,7 @@ Since the cultivation of new Irish language literature started, a good few write
 - *Séamus Mac Con Iomare (1891-1967), Carna;*
 - *Colm Ó Gaora (1887-1954), Ros Muc.*
 
-We should forget to mention *Pádraic Mac Piarais (1879-1916)* here too. Although he was from Dublin, he learned Connemara Irish in Ros Muc, his stories are mostly written in it.
+We shouldn't forget to mention *Pádraic Mac Piarais (1879-1916)* here too. Although he was from Dublin, he learned Connemara Irish in Ros Muc, his stories are mostly written in it.
 
 Information about these authors and their work can be found in Breathnach and Ní Mhurchú (1986).
 
@@ -287,3 +287,62 @@ But it is usually audible if a vowel follows it: *is maith é.*
 + *th* = /x´/ sometimes in *ar bith, d'ith, rith* (Carna).
 + *th* = /f/ in *sraothartach,* sometimes in *leathuair.*
 + *th* = /f´/ in *tuathal (tuaifeal).* 
+
+## 4. Pronunciation: Various Words
+### 4.1
+The pronunciation of words in this dialect isn't always represented by the standard spelling. Sometimes it's just a matter of a different consonant quality: slender *n* instead of broad *n* in *dúin* (verb). In other cases there's a change of consonant: *t* instead of *d* in *tada*. In other cases again there's a different form of the word: *cisteanach* instead of *cistin.*
+
+In the lists below the standard is given first, then the dialectal version.
+
+### 4.2 Difference of Quality
+*amárach : amáireach; amhras : aimhreas; clú : cliú; cosain : coisin; daid : deaide; damhsóir : daimhseoir; dún : dúin, Meiriceá : Meireacá, spórt : spóirt; stuif : stuf; ticéad : tuicéad; tiomáin : tomáin; tobann : toibeann; tóg : tóig; tuig : tig.*
+
+### 4. 3 Change of Consonant
+*cabáiste : gabáiste; contae : condae; cuardaigh : cuartaigh; dada : tada; feirm : feilm; priontáil : priondáil; taoide : taoille.*
+
+As well as *glaoch*, *blaoch* is said (especially in Carna).
+
+### 4.4  Separate Form
+*áirithe : áirid; béile : béilí; captaen : caiptín; cé : céibh; cistin : cisteanach; claíomh : claimhe ; coiscéim : coisméig; deartháir : driotháir; deirfiúr : dreithiúr; diabhal : deabhal; eireaball : drioball; foighne : foighid; galar : galra; guí : guibhe; leithéid : leithide; pá : páí; práta : fata, spéaclaí : spéacláirí; stró : stróbh; suaimhneas : suimneas; taispeáin : spáin* (or *tuspáin*).
+
+## 5. Initial Mutations
+### 5.1
+Through and through the rules pertaining to initial mutations in this dialect are similar to the rules of the standard. But there are a few small differences which are worth drawing attention to.
+
+### 5.2 Lenition of *f*
+*f* is sometimes left unlenited, especially when the lenition could make the word hard to recognise. Here are a couple of examples from Carna:
++ *cuid den foireann*
++ *Bhí sé 'na file mhaith.*
++ *Tá sí an-fearúil* (i.e. an-teanntásach).
+
+(Lenition could be found in cases like those as well.)
+
+### 5.3 Lenition of *s*
+When slender *s* is lenited, it changed to /x´/ before a back vowel: *shiúil* /x´u:l´/. Before a front vowel it changes to /h/: *sheas* /has/. /x/ in *ó shin* often.
+
+*s* isn't lenited in english names: *a Sarah, Micil Saile.*
+
+### 5.4 Eclipsis following *sa*
+*sa* (i.e. *ins an*) is followed by eclipsis: *sa mbaile, sa gcarr, sa bhfarraige.* Because of that, *m* isn't mutated: *sa mála, sa mí.* This eclipsis doesn't affect *d, t: sa doras, sa tine.*
+
+*t* is prefixed to *s* in a feminine noun: *sa tsráid* (ach *sa saol*).
+
+### 5.5 Lenition following *den, don*
+*den, don* are followed by lenition: *den chapall, don fhear.* *d, t* don't get any mutation: *den tart, don duine.* But *t* is put before *s* usually: *den tsaol, don tsagart.*
+
+### 5.6 Lenition following *ba*
+Often lenition doesn't follow *ba* (the historic form of the copula): *ba col ceathar dó é; ba fear maith é; ba gránna é; an fear ba boichte san áit.* But there usually is lenition on specific adjectives: *ba bhreá, ba cheart, b'fhurasta, ba mhaith, ba mhór.*
+
+### 5.7 The autonomous verb
+The past tense autonomous verb isn't lenited normally: *baineadh é, níor tosaíodh é.* Often there isn't lenition on the autonomous verb in other tenses either (especially in Carna):
++ *Ma cailltear é.*
++ *Ní déanfaí anois é.*
++ *Cuirtí amach iad.*
+
+But there's always lenition on *bheifí, bhítí.* Often there's a h before a verb in the past tense autonomous verb especially if there's a particle before it:
++ *Híocadh an t-airgead.*
++ *Níor hathraíodh é ní ba mhó.*
++ *Nuair a hairíodh é.*
+
+### 5.8 Following the verbal noun
+There is lenition on a nouns following a verbal noun in common phrases like *ag baint fheamainne, ag baint fhéir, ag cuir fhataí, ag díol mhóna.* Sometimes in other phrases too.
