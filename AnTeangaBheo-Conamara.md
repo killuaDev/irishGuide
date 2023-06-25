@@ -560,7 +560,7 @@ There are two versions of this word: *cupla* (/u/) and *cúpla* (/u:/).
 
 *cúpla* is normally the same as two people, especially twins. One of them would be called *leathcheann cúpla*.
 
-## 8.6 *fiche*
+### 8.6 *fiche*
 The singular follows *fiche: fiche bliain, fiche míle.* Here are some examples of the numbers which are based on *fiche:*
 + 21 : *bliain is fiche*
 + 30 : *deich mbliana fichead*
