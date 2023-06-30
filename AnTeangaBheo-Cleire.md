@@ -400,7 +400,7 @@ The most common suffixes are listed here and some samples are given of each.
 **3. 5. 3 -a**
 
 (a) *ceann ~ ceanna, cnámh ~ cnámha* (cná), *cos ~ cosa, crann* (crwn) *~ cranna, deor ~ deora, géag ~ géaga, lámh ~ lámha* (lá), *loch ~ locha, scian ~ sceana, slat ~ slata;*  
-(b) + broadening: *cuid ~ coda, gamhain ~ gamhna;*
+(b) + broadening: *cuid ~ coda, gamhain ~ gamhna;*  
 (c) + coimriú: *fiacal ~ fiacla.*
 
 **3. 5. 4 -(e)acha**
@@ -540,3 +540,208 @@ The vocative particle (*a*) is followed by lenition and the masculine nouns are 
 + a Thiarna mh'anama, a fhir mhaith, a dhuine na n-árann, 
 + a bhean mhaith, a fheara, a mhná córa.
 
+## 4. Adjectives
+**4. 0 Lenition of Adjectives**
+
+**4. 0. 1** An adjective is lenited when it's qualifying a noun in these cases :
+
+(i) feminine nominative singular: *bean dhubh, bó bhán, oíche mhaith;*  
+(ii) masculine genitive singular: *tigh Bhil mhóir, cara an lae chruaidh* (see 4. 1 below)  
+(iii) feminine dative singular: *cúille de théid thanaí, speal d'aimsir bhreá* (see 4. 2 below)  
+(iv) masculine dative singular: *tá sé ina bhall bhreá ó ceartaíodh é, pionna d'adhmad chruaidh* (see 4. 2 below)  
+(v) in the vocative singular: *a dhuine bhoicht, a bhean bhocht* (see 4.5 below);  
+(vi) nominative plural ending in -C´: báid bheaga, beachaidh mhóra, cnoic mhóra, fir chrua, lachain bheaga, portáin bheaga, préacháin dhubha;  
+(vii) with the number *dhá: dhá bhád bheaga, dhá chois ghearra* (see 7. 1. 0 below);
+
+**4. 1 The Genitive Singular**
+
+**4. 1. 0** In calqued phrases, throughout seanchas and often in regular speech the adjective is inflected in the genitive.
+
+**4. 1. 1** With masculine nouns, slenderisation and lenition occurs:
++ *bhí an bád beag i ndiaidh an bháid mhóir, fir an bháid bhig, cradhaire baile mhóir, a pháistín an bhrístín bháin, Ghaisceannáin an bhrollaigh bháin, do chaith sé piginn chun an duine bhoicht, mac an duine uasail, ceann fir mhaith, an Ghadaí Dhuibh, cara an lae chruaidh, ghoidfeadh sé an leathphiginn de shúil an duine mhairbh, ráithe an gheimridh dhuibh, tobar uisce ghlain, garraí Dhónaill Bhuí, i dtigh duine bhoicht.*
+
+**4. 1. 2** With feminine nouns, slenderisation and the suffix *-e* are used:
++ *fé sháil a choise deise,* 
++ *chomh garbh le croieceann caillí brice,*
++ *clann na cránach duibhe* (duí),
++ *do bhí an saol mná uaisle aici,*
++ *tobar na draeine móire,*
++ *neart na taoide móire,*
++ *laethanta na taoide bige,*
++ *urlár cré báine,*
++ *urlár cré duibhe* (duí),
++ *cailín na gruaige finne.*
+
+**4. 1. 3** Often now, especially in spontaneous speech, the adjective isn't inflected:
++ *agus í ag tarrac na hanala deireannach, i leath do láimhe deas (deise leis), i lár locha mór, tar éis bháis an duine déanach (dhéanaigh leis), san eireaball thiar thall na haoise déanach, a mhic na máthar suairc, oíche Nollag Beag, oíche Nollag Mór, tar éis tamaillín beag, ar feadh tamaillín beag eile.*
+
+**4. 2 The Dative Singular**
+
+**4. 2. 1** For masculine nouns, the adjective can be lenited but it's not necessary:
++ *san am chéanna, ón mball chéanna, bhí canda d'arán dhóite dhubh ina ghlaic aige, do thit sé anuas ina cheo dhubh orthu,  bhí sí ina cailin chrotúil dhealraitheach, bhí sé ina chogadh chaorach eatarthu, leadhb de dhuine shlite, sa gheimhreadh dhubh, bhí sé ina mhúinteoir mhaith deirimse leat, táim in ordú mhaith anois;
+
+But
++ *shuigh sé isteach sa bhád beag,* 
++ *tánn tú ar an gcúrsa ceart anois,* 
++ *chuir sé an t-airgead ina phóca deas,* 
++ *i dtigh beag a chónaigh sé,*  
++ *canna d'uisce teasaí.*
+
+**4. 2. 2** For feminine nouns the adjective is always lenited and it's inflected often:
++ *ar an gcuma chéanna,*  
++ *iad a chur ar an gcuma cheart,*
++ *braon den fhuil uasal,*  
++ *do bhí sí fos ina gríosach dhearg,* 
++ *bhí speal d'aimsir ghlas chughainn;*
++ *sa bhfarraige ghoirm,*
++ *féna láimh dheis,*
++ *bhíos ag cur síos ar an dtaoide bhig,*
++ *cad tá sa leabhair mhóir agat?*
+
+**4. 2. 3** In calqued phrases the adjective is eclipsed:
++ *san am gcéanna,*
++ *d'imigh sé ar an gcuma céanna,*
++ *leis an bhfear ndubh, don rógaire ndubh.*
+
+**4. 3 The Plural**
+
+**4. 3. 0** The plural has 4 suffixes:
+
+(i) -a (adjectives ending in -C and on *-úil*);  
+(ii) -e (adjectives ending in -C´);  
+(iii) -tha (adjectives ending on broad vowels);  
+(iv) -the (adjectives ending in slender vowels);
+
+**4. 3. 1 -a**
++ *cannaí folamha* (folú), *clocha troma, dadoiní bohcta, pollóga dubha* (dú), *mogaill dhubha* (dhú), *líonta gearra ramhara, scamaill mhóra uisciúla, seoltha glégeala, slata gearra caola, uaisle móra* (muora);
++ + broadening: *daoiní casta camastúla, fáiseanna dathúla.*
+
+**4. 3. 2 -e**
++ *daoiní cruinne, muca méithe, fir láidre, rudaí milse* (mísle);
++ + slenderisation: *fallaí ísle, mná uaisle.*
+
+**4.3. 3 -tha**
++ *tithe nuatha* (nóho), *úlla breátha, mná ruatha;*
++ see also: *mogaill dhútha, piastaí móra dútha.*
+
+**4.3. 4 -the**
++ *cnaipí beaga buíthe, pollóga buíthe.*
+
+**4. 3. 5** The adjective is often not inflected in the plural. That happens especially with adjectives ending in *-ach* or *úil* and in phrases with more than one adjective qualifying the noun:
++ *ainmneacha deifireach, báidíní deasa áiseach,  mbaill iargcúlach, buachaillí craobhach,  cailíní córtaiseach,  cístí beaga áiseach, daoiní bochta giobógach, sin é d'airíos-sa ó dhaoiní cruinne eolaiseach, dathanna deifireach, is minic a chualagsa é sin ó dhaoini cruinne éifeachtúil, daoiní bochta giobógach, caitheann daoiní mí-ámharach bheith leis ann, éadaí faiseantuil, ginithe breátha buí, gleannta fada reidh, laethanta cuisniúil, seoltha móra taibhseach, stocaí breátha tairbheach, tithe gaelach, bhí sé a ceathair nó a cúig de throithibh cearnógach.*
+
+**4. 3. 6** It's normal, when a feminine noun is being qualified by more than one adjective that all of the adjectives are lenited:
++ *aimsear mhaith shocair, speal d'aimsir bhreá shocair, bhí bean bhrea chrotuil d'iníon aige, bean chruinn chiallmhar, bó mhaith bhainniúil, do bhíodar i bpáirc bhreá fhairsing réidh, puins bhreá bheirithe, stoirm mhór fhiain, stráice de langa bhreá fhada gheal, téad chaol thanaí, toirneach mhór ghroí.*
+
+**4. 4 The Genitive Plural**
+
+**4. 4. 1** It's not normal to eclipse the adjective in the genitive plural:
++ *leanbhaí na mban óg,*
++ *seoltha na mbád beag,*
++ *síol na bhfear fónta*,
+
+except in calqued phrases:
++ *in aimsir na mBuachaillí mBána,*
++ *cat na gcosa mbán,*
++ *maíomh na bhfaighneog bhfolmha*
+
+**4. 5 The Vocative Particle**
+
+**4. 5. 1** With masculine nouns, the adjective is slenderised and lenited in the singular:
++ *a chailín bhig óig, a Dhia mhóir na glóire,*
++ *a dhuine bhoicht, a dhuine chóir,*
++ *a dhuine uasail, a ghamainín bhoicht.*
+
+**4. 5. 2** With feminine nouns, the adjective is slenderised but not inflected:
++ *a bhean bhocht, a bhean mhaith, a bhean uasal.*
+
+**4. 5. 3** No change happens to the adjective in the plural:
++ *a fheara bochta, a dhaoine uaisle, a mhná córa.*
+
+**4. 6 Degrees of the Adjective**
+
+**4. 6. 0** Three structures used for direct comparison:
++  (i) chomh + adjective + *le* + noun (4. 6. 1);
++ (ii) chomh + adjective + *agus* + verb (4. 6. 2 );
++ (iii) chomh + adjective + *de* + noun + (a) *agus* + verb or (b) + *le* + noun (4. 6. 3).
+
+**4. 6. 1**
++ *tá sé chomh haosta lé capall na gcomharsan, chomh buí le ór, chomh cruinn le mada rua, chomh dubh leis an gcáig, chomh geal leis an eala, chomh ramhar le bullán, chomh righin le gad.*
+
+**4. 6. 2**
++ *táim chomh dealbh inniu agus a bhíos an lá a phósas, do bhí sé chomh bocht is d'fhéadfadh saé bheith oíche hcomh doirche a chonac riamh, beir chomh maith agus do bhís riamh as so amach, féach chomh meirgeach is tá sé, d'imigh sé leis chomh tapaidh agus do tháinís isteach sa tigh seo, chomh maith agus is cuimhin liom anois.*
+
+**4. 6. 3**
++ *tá sé chomh haerach d'fhear is a chuir cos i mbroig, ta sé chomh beannaithe de thigh is atá sna seacht n-oileáin, tá sé chomh crotúil d'fhear is do bhí sé riamh,  níl aon bhean  ó Chléire go  Luimnigh  chomh cruinn de mhnaoi léi, bhí sé chomh dea-mheasta d'fhear is a gheobhfá, is mic (minic) ná beadh bó chomh maith de bhó bhainne lena máthair.*
+
+**4. 7 An Chéim Comparáide**
+
+**4. 7. 0** Two structures are used in the comparative degree.
++ (i) verb + *níos* + adjectives (comparative)
++ (ii) copula + adjective (comparative and superlative).
+
+**4. 7. 1 verb + níos + adjective**
++ *tá an féar glas níos bainniúla ná an féar tirim, tá san i bhfad níos fearr d' fhocal, tá sé níos cruinne ná an chuid eile acu, déarfá go raibh an oíche anocht níos duibhe (duí) ná an oíche aréir, do bhí dealramh níos tíorma ag teacht ar an spéir, do bhíodh cuid acu i bhfad níos fearr d'fharraigeoirí na tuilleadh acu, tá an tigh seo níos leithe ná an tigh eile, labhrann sé níos tibhe (ti) na éinne eile againn.*
+
+**4. 7. 2 copula + adjective**
++ *is comónta i bhfad d'fhear é ná mise, is fearr sioc féin ná síorbháisteach, is fearr beagán den ghaol ná mórán den mhuintearas, is fearr an déanaí féin na an ródhéanaí, is mó ná gluaisteáin i gCléire anois ná tá daoiní, ní fearr cóir ná calm, níl éinne is fearr Gaolainn ná thú, is straidhniúla é ná bheith ag obair;*
++ *bhí sí ar na mnáibh ba bhreátha ar domhan, sí an bháisteach anoirdeas is iomarcaí a thagann, na páirteanna is leithe agus is fairsinge den bhád, sin é an fíoruisce is milse (mísle) a ólas riamh, sí an langa is mó i gcónaí an langa is fearr len ithe, níl aon bheithíoch éisc is raimhe (ruí) ná an rón óg,   dobh é an fear is treise é do chonac riamh*
+
+**4. 7. 3 The comparative degree is made like this**
+
+(i) **+ a**  
+*gearr ~ giorra, teann ~ teanna;*  
+\+ broadening: *cóir ~ córa, cruaidh ~ crua, socair ~ socara.*
+
+(ii) **+ e**  
+*anacair ~ anacaire, binn ~ binne, cruinn ~ cruinne,*  
+\+ syncopation: *álainn ~ áille, láidir ~ láidre, milis ~ milse (mísle);*  
+\+ slenderisation: *baoth ~ baoithe, bocht ~ boichte* (boch ti), *deas ~ deise, dian ~ déine, fionn ~ finne, fliuch ~ fliche, fuar ~ fuaire, geal ~ gile, glas ~ glaise, óg ~ óige, luath ~ luaithe, mall ~ maille, gar ~ gaire, greannúr ~ greannúire, ramhar ~ raimhre* (ruíri), *salach ~ sailche* (soilihe), *tréan ~ tréine, trom ~ troime;*  
+\+ syncopation + slenderisation: *íseal ~ ísle, uasal ~ uaisle;*  
+See also: *dubh ~ duibhe* (duí), *garbh ~ gairbhe* (gairí), *searbh ~ seirbhe* (seirí), *tiubh ~ tibhe* (tí), *réidh  ~ ré.*
+
+(iii) **+ aí/-í**
++ a. *balbh ~ balbhaí, folmh ~ folmhaí;*
++ b. *dócha ~ dóichí, minic ~ minicí.*
+
+(iv) **+ -tha/-the**  
+*breá ~ breátha, buí ~ buíthe.*
+
+(v) **-ach > -í**  
+*aosáideach ~ aosáidí, bacach ~ bacaí, baileach ~ bailí, brothallach ~ brothallaí, cíocrach ~ cíocraí, cóngarach ~ cóngaraí, díreach ~ dírí, fabhrach ~ fabhraí, tuirseach ~ tuirsí, oiriúnach ~ oiriúnaí;*  
+See also: *anróch ~ anróichí, buíoch* (baoch) *~ baoithí, gnách ~ gnáthaí, imníoch ~ imníchí, neaspleách ~ neaspláthaí.*
+
+(vi) **-mhar > -aire**  
+*ciallmhar ~ ciallmhaire, slachtmhar ~ slachtmhaire, solasmhar ~ solasmhaire.*
+
+(vii) **-úil > -úla**  
+*bainniúil ~ bainniúla, cosúil ~ cosúla, compordúil ~ compordúla, fearúil ~ fearúla.*
+
+**4. 7. 4 Irregular Forms**
++ *beag ~ lú*
++ *dealbh ~ dealúsaí*
++ *fada ~ sia*
++ *fuirist ~ fusa*
++ *leathan ~ leithe*
++ *maith ~ fearr*
++ *mór ~ mó*
++ *olc ~ measa*
++ *ramhar ~ raimhe (ruí)*
++ *tapaidh ~ tapúla*
++ *teasaí ~ teo*
++ *tirim ~ tíorma*
++ *tréan ~ treise*
+
+**4. 7. 5** There's no special comparative degree for the majority of nouns ending in vowels (*aosta, blasta, breoite, cinnte, cliste, críonna, coitianta, comónta, doirche, éaganta, néata, macánta, pléisiúrtha, sásta, seanda, simplí*) but note: *dána ~ dáine, gránna ~ gráinne.*
+
+**4. 8** Although structures like this can be used
++ *bhí an oíche chomh holc san nár fhéadamair dul amach*
++ *bhí sé chomh bocht san ná féatach* **(féadfadh)** *saé díol as a chuid aráin*
+
+It's not the most common structure (especially among sophisticated speakers). The normal structure is
++ noun + sa + abstract noun
++ *bhí an oíche san anróichí ná cuirfeadh an diabhal a mhadra amach,*
++ *bhí an aimsir sa bhreáthacht nár tharraigíomair na báid in aon chor,*
++ *bhí an oíche sa chiúnas go gcloisfeá ineáil á tharrac,*
++ *tá an chaint ag teacht sa tibheadas* **(tídeas)** *orm nách féidir leat í a scrí,*
++ *bím sa tuirsí uaireanta ná fágaim an leabaidh in aon chor.*
