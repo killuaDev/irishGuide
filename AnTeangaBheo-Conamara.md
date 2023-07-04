@@ -1009,7 +1009,7 @@ These samples show the formation of verbal adjectives in conjugation 2:
 
 ### 13.14 Verbal Nouns
 There's a good few verbal nouns in the dialect which have a different form than in the standard. Here are some of the most common samples:
-+ *aithin: aithneachtáil* (but *is furastaaithint é* 'easily known')
++ *aithin: aithneachtáil* (but *is furasta aithint é* 'easily known')
 + *ceannaigh: ceannacht*
 + *creid: creistiúint* or *creistint* (Carna)
 + *fág: fágál* (broad *l* also in *coinneál, tóigeál*)
