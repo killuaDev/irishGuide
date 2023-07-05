@@ -116,12 +116,12 @@ but
 + Seán a/ə Gallchóir
 + Jimí a/ə Dubhchon
 
-(e) Mac in surnames. It's not typical to pronounce the *M* in *Mac* except when the name is being called out officially or when the first name omitted. There's a strong tendency to make a *g* out of the last *c* before vowels and before surnames that start with *r/l*. The *a* is often said as \[ə].
+(e) Mac in surnames. It's not typical to pronounce the *M* in *Mac* except when the name is being called out officially or when the first name is omitted. There's a strong tendency to make a *g* out of the last *c* before vowels and before surnames that start with *r/l*. The *a* is often said as \[ə].
 + *Tadhg (M)ac Pháidín/Suibhne*
 + Seán (M)ag Aodha
 + (M)ag Aodha/Fhloinn/Lochlainn/Rabhartaigh (broad 'g')
-+ Mánas (M)ag Éidí/Fhionnaile/Íomhair ('g' caol)
-+ Eoghan (M)a Giolla Bhríde/Chóill ('c/g' ar lár)
++ Mánas (M)ag Éidí/Fhionnaile/Íomhair (slender 'g')
++ Eoghan (M)a Giolla Bhríde/Chóill ('c/g' dropped)
 
 ### 1.5 polysyllabic Words Ending with *'-adh/-amh/-odh*
 -(e)adh/-odh/-(e)amh in polysyllabic words are said like the *u* at the end of *Zulu*. They're found words like the following. *ú* is used to show the pronunciation:
@@ -963,7 +963,7 @@ At the top of every table below, the form used when a personal noun or normal no
 | *2. dá gceanglaítheá*     | *dá gceanglaít sibh*                 |                               |
 | *3. *dá gceangláit sé/sí* | *dá gceanglaít siad*                 | *dá gceanglaítí/gceanglaístí* |
 
-**Verbal noun:** *ag ceangal*
+**Verbal noun:** *ag ceangal*  
 **Verbal adjective:** *ceangailte/ceangalta, ceanglaí/ceanglaiste/ceanglaíste*
 
 #### 2.8.4 Monosyllabic verbs ending in *-igh*
@@ -1040,3 +1040,452 @@ At the top of every table below, the form used when a personal noun or normal no
 
 **Verbal noun:** *ag dóú*  
 **Verbal adjective:** *dóite, dóití*
+
+### 2.8.5 Irregular Verbs
+There's a lot of parts of the irregular verbs which aren't irregular at all. Still, for the sake of being as complete as possible, the paradigm of all of the versions are given in the tables below.
+
+**Cluin**
+
+**Present:** *cluin(eann)*
+
+|                             |                         |             |
+| --------------------------- | ----------------------- | ----------- |
+| *1 cluineam / cluineann mé* | *cluinimid/cluineamaid* |             |
+| *2. cluin(eann) tú*         | *cluin(eann) muid/sinn* |             |
+| *3. cluin(eann) sé/sí*      | *cluin(eann) siad*      | *cluintear* | 
+
+**Past:** *chualaí*
+
+|                   |                    |                       |
+| ----------------- | ------------------ | --------------------- |
+| *1. chuala mé*  \*  | *chuala muid/sinn* \** |                       |
+| *2. chuala tú*    | *chuala sibh*      |                       |
+| *3. chuala sé/sí* | *chuala siad*      | *chualas, cluiniú(s)* | 
+
+\* *chula/hula mé/tú* etc. is often said  
+\*\* It's normally said as one word, *chualamaid*
+
+**Future:** *cluinhí*
+
+|                    |                           |     |
+| ------------------ | ------------------------- | --- |
+| *1. cluinhe mé*    | *cluinhimid/cluinheamaid* |     |
+| *2. cluinhe tú*    | *cluinhe sibh*            |     |
+| *3. cluinhe sé/sí* | *cluinhe siad*            | *cluinhear* \*    |
+
+\* The *ea* in *hear* is pronounced like the *ea* in *fear.*
+
+**Conditional:** *cluinhiú*
+
+|                      |                                  |                     |
+| -------------------- | -------------------------------- | ------------------- |
+| *1. chluinhinn*      | *chluinhimis(t)/cluinheamais(t)* |                     |
+| *2. chluinfeá*       | *chluinhit sibh*                 |                     |
+| *3. chluinhit sé/sí* | *chluinhit siad*                 | *chluinhí/chluinfí* | 
+
+**Present subjunctive:** *go gcluiní*  
+*Fan go gcluine mé/tú* etc. *a bhfuil le rá aige.*
+*Mur gculiní Pádraig amárach é.* (mura gcluine)
+
+**Past subjunctive:** *dá gcluiniú*
+
+|                        |                                    |               |
+| ---------------------- | ---------------------------------- | ------------- |
+| *1. dá gcluininn*      | *dá gcluimimis(t)/gcluineamais(t)* |               |
+| *2. dá gcluint(h)eá*   | *dá gcluinit sibh*                 |               |
+| *3. dá gcluinit sé/sí* | *dá gcluinit siad*                 | *dá gcluintí* | 
+
+**Verbal noun:** *ag cluinstin/cluinstean*  
+**Verbal adjective:** *cluinste/cluinstí*
+
+#### Faigh
+
+**Present:** *fánn, gheibheann*
+
+|                        |                                      |                    |
+| ---------------------- | ------------------------------------ | ------------------ |
+| *1. fám/gheibheam*     | fáimíd/famaíd; fánn/gheibh muid/sinn |                    |
+| *2. fánn/gheibh tú*    | *fánn/gheibh sibh*                   |                    |
+| *3. fánn/gheibh sé/sí* | *fánn/gheibh siad*                   | *fathar, gheifear* | 
+
+**Past:** *fuair*
+
+|                  |                   |                                       |
+| ---------------- | ----------------- | ------------------------------------- |
+| *1. fuair mé*\*    | *fuair muid/sinn*\*** |                                       |
+| 2. *fuair tú*\**    | *fuair sibh*\***     |                                       |
+| 3. *fuair sé/sí*\*** | *fuair siad*\***      | *fuaras/fuaireas/fuarthas/fuairtheas* | 
+
+**The negative:** *ní bhfuair, chan fhuair.*
+
+\* Often the diphthong *ua* is shortened to *u.* In those cases *fuir mé/tú* etc. is what's said. *ia* is heard as a pronunciation of *ua* in some of the subdialects as well.  
+\** the *r* is broad before *tú.*  
+\*** The *r* and the *s* affect each other and the pair is made at the back of the dental ridge.
+
+
+**Past habitual**  
+Independent: *gheibhiú*
+
+|                     |                 |                   |
+| ------------------- | --------------- | ----------------- |
+| *1. gheibhinn*      | *gheibhimis(t)* | *gheibheamais(t)* |
+| *2. gheifeá*        | *gheibhit sibh* |                   |
+| *3. gheibhit sé/sí* | *gheibhit siad* | *gheifí*          | 
+
+Dependent: *An bhfáú? Ní fháú.*
+
+|                                      |                                                         |                          |
+| ------------------------------------ | ------------------------------------------------------- | ------------------------ |
+| *1. An bhfáinn? Ní fháinn.*          | *An bhfáimis(t)/bhfámais(t)? Ní fháimis(t)/fhámais(t).* |                          |
+| *2. An bhfahá? Ní fhahá*             | *An bhfáit sibh? Ní fháit sibh.*                        |                          |
+| 3. *An bhfáit sé/sí? Ní fháit sé/sí.* | *An bhfáit siad? Ní fháit siad*                         | *An bhfahaí? Ní fhahaí.* |
+
+**Future**  
+Independent: *gheoí*
+
+|                 |                                |           |
+| --------------- | ------------------------------ | --------- |
+| *1. gheo mé*    | *gheoimid/gheomaid, gheo muid* |           |
+| *2. gheo tú*    | *gheo sibh*                    |           |
+| *3. gheo sé/sí* | *gheo siad*                    | *gheohar* | 
+
+Dependent: *An bhfaí? Ní bhfaí. Chan fhánn/fhaíonn.*
+
+|                                                                         |                                                                                                                                |                                                          |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------- |
+| *1. An bhfaí mé? Ní bhfaí mé. Chan fhám/fhaíom. Chan fhánn/fhaíonn mé.* | *An bhfaímid/bhfaíomaid? An bhfaí muid? Ní bhfaímid/bhfaíomaid. Ní bhfaí muid. Chan fháimid/fhámaid. Chan fhánn/fhaíonn muid.* |                                                          |
+| *2. An bhfaí tú? Ní bhfaí tú. Chan fhánn/fhaíonn tú.*                   | *An bhfaí sibh? Ní bhfaí sibh. Chan fhánn/fhaíonn sibh.*                                                                       |                                                          |
+| *3. An bhfaí sé/sí? Ní bhfaí sé/sí. Chan fhánn/fhaíonn sé/sí.*          | *An bhfaí siad? Ní bhfaí siad. Chan fhánn/fhaíonn siad*                                                                        | *An bhfaíhar/bhfahar? Ní bhfaíhar. Chan fhaíhar/fhahar.* | 
+
+**Conditional**
+
+Independent: *gheoú*
+
+|                   |                                      |     |
+| ----------------- | ------------------------------------ | --- |
+| *1. gheoinn*      | *gheoimis(t)/gheomais(t)/gheos muid* |     |
+| *2. gheohá*       | *gheoit sibh*                        |     |
+| 3. *gheoit sé/sí* | *gheoit siad*                        | *gheohí*    |
+
+Dependent: *ní bhfaíú, chan fhaíú*
+
+|                                        |                                                                                                      |                           |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------- |
+| *1. ní bhfaínn. chan fhaínn*           | *ní bhfaímis(t)/bhfaíomais(t). chan fhaímis(t)/fhaíomais(t). chan fhaíú muid/sinn, chan fhaíos muid* |                           |
+| *2. ní bhfaíheá. chan fhaíheá*         | *ní bhfaít sibh. chan fhaít sibh*                                                                    |                           |
+| *3. ní bhfaít sé/sí. chan fhaít sé/sí* | *ní bhfaít siad. chan fháit siad*                                                                    | *ní bhfaíhí, chan fhaíhí* |
+
+**Imperative:** *fáú*
+
+|                      |                       |                   |
+| -------------------- | --------------------- | ----------------- |
+| *1. \_\_\_\_*        | *fáimis(t)/fámais(t)* |                   |
+| 2. *fáy/fay/fa*      | *fáigí/fayigí/faigí*  |                   |
+| 3. *fáit/fait sé/sí* | *fáit/fait siad*      | *fáitear/faitear* | 
+
+**Present subjunctive:** *go bhfáy/bhfay/bhfaí*  
+*Fan go bhfá/go bhfaí mé/tú* etc.  
+*Is gairid go bhfathar/bhfáithar iad.*
+
+**Past subjunctive:** *dá bhfáú*
+
+|                 |                              |     |
+| --------------- | ---------------------------- | --- |
+| *1. dá bhfáinn* | *dá bhfáimis(t)/bhfámais(t)* |     |
+| *2. dá bhfathá* | *dá bhfáit sibh*             |     |
+| *3. dhá bhfáit sé/sí*                |                              |     |
+
+**Verbal noun:** *ag fáil(t)*
+
+### Ith
+**Present:** *itheann/íosann*
+
+|                                      |                                         |                |
+| ------------------------------------ | --------------------------------------- | -------------- |
+| *1. itheam/íosam, itheann/íosann mé* | *ithimid/íosaimid, itheann/íosann muid* |                |
+| *2. itheann tú/íosann tú*            | *itheann/íosann sibh*                   |                |
+| *3. itheann/íosann sé/sí*            | *itheann/íosann siad*                   | *itear/ithear* | 
+
+**The negative:** *ní/chan itheam/íosam* etc.
+
+**Past:** *d'ith*
+
+|                  |                   |          |
+| ---------------- | ----------------- | -------- |
+| *1. d'ith mé*    | *d'ith muid/sinn* |          |
+| *2. d'ith tú*    | *d'ith sibh*      |          |
+| *3. d'ith sé/sí* | *d'ith siad*      | *hithiú* | 
+
+**The negative:** *níor/char ith mé* etc., *níor/char hithiú.*
+
+**Past habitual:** *d'ithiú*
+
+|                    |                               |         |
+| ------------------ | ----------------------------- | ------- |
+| *1. d'ithinn*      | *d'ithimis(t)/d'itheamais(t)* |         |
+| *2. d'itheá*       | *d'ithit sibh*                |         |
+| *3. d'ithit sé/sí* | *d'ithit siad*                | *d'ití* | 
+
+**Future:** *íosaí*
+
+|                 |                      |         |
+| --------------- | -------------------- | ------- |
+| *1. íosa mé*    | *íosaimid/íosa muid* |         |
+| *2. íosa tú*    | *íosa sibh*          |         |
+| *3. íosa sé/sí* | *íosa siad*          | *íosar* | 
+
+**The negative:** *ní íosa mé* etc., *chan ithim/íosaim* etc., *chan ithear/íosar*
+
+**Conditional mood:** *d'íosú*
+
+|                    |                                                      |                   |
+| ------------------ | ---------------------------------------------------- | ----------------- |
+| *1. d'íosainn*     | *d'íosaimis(t)/d'íosamais(t), díosas/d'íosú(s) muid* |                   |
+| *2. d'íosá*        | *d'íosait sibh*                                      |                   |
+| *3. díosait sé/sí* | *d'íosait siad*                                      | *d'íosaí/d'íosfí* | 
+
+**The negative:** *ní/chann íosainn* etc.
+
+**Present subjunctive:** *go n-ithí*  
+*Fan go n-ithe mé/tú* etc..  
+*Fan go n-ithí Cormac a dhinnéar*
+
+**Past subjunctive:** *dá n-ithiú*
+
+|                       |                                  |            |
+| --------------------- | -------------------------------- | ---------- |
+| *1. dá n-ithinn*      | *dá n-ithimis(t)/n-itheamais(t)* |            |
+| *2. dá n-itheá*       | *dá n-ithit sibh*                |            |
+| *3. dá n-ithit sé/sí* | *dá n-ithit siad*                | *dá n-ití* | 
+
+**Imperative Mood:** *ithiú*
+
+|                         |                                                    |                 |
+| ----------------------- | -------------------------------------------------- | --------------- |
+| *1. \_\_\_\_*           | *ithimis(t)/íosaimis(t); itheamais(t)/íosamais(t)* |                 |
+| *2. ith*                | *ithigí*                                           |                 |
+| *3. ithit/íosait sé/sí* | *ithit/íosait siad*                                | *itear/ithear* | 
+
+**The negative:** *ná hith* etc.
+
+**Verbal noun:** *ag ithe*  
+**Verbal adjective:** *ite, ití*
+
+#### Tabhair
+**Present:** *bheir(eann), tugann*
+
+|                                         |                                                   |                      |
+| --------------------------------------- | ------------------------------------------------- | -------------------- |
+| *1. bheiream*\* *bheir(eann)/tugann mé* | *bheirimid/bheireamaid,  bheir(eann)/tugann muid* |                      |
+| *2. bheir/tugann tú*                    | *bheir(eann)/tugann sibh*                         |                      |
+| *3. bheir(eann)/tugann sé/sí*           | *bheir(eann)/tugann siad*                         | *bheirt(e)ar/tugtar* |
+
+\* Note that *bheir(eann)* isn't used with the negative.
+
+**The negative:** *ní thugam/thugann mé* etc.; *cha dtugam/dtugann mé* etc.
+
+The following forms are also found but they're only used as dependent versions. It's clear that they're based on versions like *tabhaiream/tabhram* etc. Remember that this verb stem is said as *tóir* in Ulster.
++ *ní/má thóiream/thóram, ní/má thóireann/thórann mé/ tú* etc. 
++ *cha dtóiream/dtóram* etc.
+
+**Past:** *thug*
+
+|                                          |                                               |                    |
+| ---------------------------------------- | --------------------------------------------- | ------------------ |
+| *1. (ní(or)) thug mé, cha dtug mé*       | *(ní(or)) thug muid/sinn, cha dtug muid/sinn* |                    |
+| *2. (ní(or)) thug tú, cha dtug tú*       | *(nío(or)) thug sibh, cha dtug sibh*          |                    |
+| *3. (ní(or)) thug sé/sí, cha dtug sé/sí* | *(ní(or)) thug tú, cha dtug siad*             | *ní(or)/char tugú* | 
+
+**Past habitual:** *bheiriú/thugú*
+
+|                            |                                                                                   |                      |
+| -------------------------- | --------------------------------------------------------------------------------- | -------------------- |
+| *1. bheirinn/thugainn*     | *bheirimist/bheireamais(t), (thugaimis(t)/thugamais(t)), bheiriú/thugú muid/sinn* |                      |
+| *2. bheirt(e)á/thugtá*     | *bheirit/thugait sibh*                                                            |                      |
+| *3. bheirit/thugait sé/sí* | *bheirit/thugait siad*                                                            | *bheirt(a)í/thugtaí* | 
+
+**Future:** *bhéarhaí*
+
+|                    |                                              |            |
+| ------------------ | -------------------------------------------- | ---------- |
+| *1. bhéarha mé*    | *bhéarhaimid/bhéarhamaid, bhéarha muid/sinn* |            |
+| *2. bhéarha tú*    | *bhéarha sibh*                               |            |
+| *3. bhéarha sé/sí* | *bhéarha siad*                               | *bhéarhar* | 
+
+**The negative:** *ní thóirthe/thórha mé/tú* etc., *ní thó(i)rhí Seán, ní thóirhear/thórhar, cha dtugam/dtugann mé/tú srl.; cha dtóiream/dtóireann mé/tú* etc. *cha dtóram/dtórann mé/tú* etc.; *cha dtóirhear/dtórhar.*
+
+**Conditional mood:** *bhéarhú/thóirhiú/thórhú*
+
+|                       |                                                    |                             |
+| --------------------- | -------------------------------------------------- | --------------------------- |
+| *1. bhéarhainn*       | *bhéarhaimis(t)/bhéarhamais(t), bhéarhú muid/sinn* |                             |
+| *2. bhéarhá*          | *bhéarhait sibh*                                   |                             |
+| *3. bhéarhait sé/sí* | *bhéarhait siad*                                   | *bhéarhí/bhéarfí/thó(i)rhí* | 
+
+**The negative:** *ní thóirhinn/thórhainn* etc.; *ní thóirhí/thóorhaí, cha dtóirhinn/dtórhainn* etc.; *cha dtóirhí/dtórhaí*
+
+**Imperative mood:** *tugú/tóiriú/tórú*
+
+|                                 |                                                                                 |          |
+| ------------------------------- | ------------------------------------------------------------------------------- | -------- |
+| *1. \_\_\_\_*                   | *tóirimis(t)/tóireamais(t), tóraimis(t), tóramais(t), tugaimis(t), tugamais(t)* |          |
+| *2. tóir*\*                     | *tóirigí, tóraigí, tugaigí*                                                     |          |
+| *3. tugait/tóirit/tórait sé/sí* | *tugait/tóirit/tórait siad*                                                     | *tugtar* | 
+
+\* There's a special set version of ***tabhair dom.*** It's said as ***taem, taigheam*.
+
+**Present subjunctive:** *go dtugaí/dtóirí/dtóraí*  
+*Fan go dtuga/dtóire/dtóra mé/tú* etc.  
+*Fan go dtugaí/dtóirí/dtóraí fear an tsiopa an briseadh duit.*
+
+**Past subjunctive:** *dá dtugú*
+
+|                       |                                                    |              |
+| --------------------- | -------------------------------------------------- | ------------ |
+| *1. dá dtugainn*      | *dá dtugaimis(t)/dtugamais(t), dá dtugú muid/sinn* |              |
+| *2. dá dtugtá*        | *dá dtugait sibh*                                  |              |
+| *3. dá dtugait sé/sí* | *dá dtugait siad*                                  | *dá dtugtaí* | 
+
+**Verbal noun:** *ag tóirt*  
+**Verbal adjective:** *tuca/tucaí* (in certain phrases)
+
+#### Beir
+
+#### Abair
+
+#### Feic
+
+#### Tar
+
+#### Gabh/Téigh
+
+#### Déan
+
+## 3. The Copula
+### 3.1 The Copular Sentence
+There are various types of copular sentences in this dialect. The following are the main forms that are used in them.
+
+|                 |          | Present                | Past/Conditional Mood        |
+| --------------- | -------- | ---------------------- | ---------------------------- |
+| Statement       | positive | *is*                   | *ba, b', badh*               |
+|                 | negative | *ní, ní h-, cha, chan* | *níor, níorbh, char, charbh* |
+| Question        | positive | *an, ab*               | *ab, ar, arbh, an mb'*       |
+|                 |          | *cé*                   | *cár, cérbh*                 |
+|                 | negative | *nach, ná nach*        | *nár, nárbh, nach ba/b'*     |
+| Reported speech | positive | *gur, gurb*            | *gur, gurbh, go mb'*         |
+|                 | negative | *nach, nach b'*        | *nár, nárbh*                 |
+| Relative        | positive | *is, ar*               | *a ba, ab', ar, arbh, a mb'* |
+|                 | negative | *nach*                 | *nár, nárbh*                 | 
+
+Regarding with the above forms, this much can be said. The forms ending in *b/bh* are used before the pronouns *é, í, iad, ea(dh)* and words starting with *fh* + a vowel. There's a tendency to drop the *r* in the forms before words starting with a consonant. From a pronunciation perspective, the *b/bh* in the forms join with the next word and there's a tendency there too to drop the *r.* *chan*is used before pronouns and nouns, and *cha* before adjectives. Here, we focus on classification and identification sentences, possessive sentences, and on the use of adjectives and prepositions with the copula.
+
+### 3.2 The basic forms *is* and *ba*
+These two forms are used in sentences of the sort below. Note that an adjective follows the copula in each case.
+
+|                               |                                 |
+| ----------------------------- | ------------------------------- |
+| *Is mór an t-airgead/gar é*   | *Ba mhór an t-airgead/gar é*    |
+| *Is deas an áit é*            | *Ba d(h)eas an áit é*           |
+| *Is breá an bhó í*            | *Ba bhreá an bhó í*             |
+| *Is iontach an rud é*         | *B'iontach an rud é*            |
+| *Is amaideach an fear é*      | *B'amaideach an fear é*         |
+| *Is doiligh éirí ar maidin*   | *Ba d(h)oiligh éirí ar maidin*  |
+| *Is furast(A) labhairt leis*  | *B'fhurast(a) labhairt leis*    |
+| *Is maith/breá liom é cinnte* | *Ba mhaith/bhreá liom é cinnte* |
+| *Is daor liom iad*            | *Ba d(h)aor liom iad*           |
+| *Is fearr dúin féin é*        | *B'fhearr dúin féin é*                                |
+
+### 3.3 Classification and Identification Sentences
+#### 3.3.1 Classification Sentences
+It's typical to leave out the copula in classification sentences.
++ *Fear deas Seán/é.*
++ *Tithe daora iad.*
++ *Bó bhreá í.*
++ *Doc(h)túir mise.*
+
+When the past tense is to be expressed, that's done in two ways. The verb *bí* is used plus the preposition *i* in the two cases. The verb can be put at the end of the sentence but it's often in the middle or at the end when special emphasis is being used.  *ba* is not put at the start of the sentence.
+
+|                             |                                   |
+| --------------------------- | --------------------------------- |
+| *Bhí Máire ina múinteoir*   | *Múinteoir a bhí i(n) Máire/inti* |
+| *Bhí Seán ina fhear dheas*  | *Fear deas a bhí i(n) Seán/ann*   |
+| *Bhí siad ina dtithe daora* | *Tithe daora a bhí iontu*         |
+| *Bhí sí ina bó bhreá*       | *Bó bhreá a bhí inti*             |
+| *Bhí mé i mo dhoc(h)túir*   | Doc(h)túir a bhí ionam            | 
+
+In the same way, the present can be expressed using *tá/atá + i*
+
+|                          |                            |
+| ------------------------ | -------------------------- |
+| *Tá Máire ina múinteoir* | *Múinteoir atá i(n) Máire* |
+| *Tá sé ina bhuchaill óg* | *Buachaill óg atá ann*     |
+| *Tá sí ina scoil mhaith* | *Scoil mhaith atá inti*    | 
+
+Using sentences like *Is ainmhí an coinín* isn't typical in Ulster Irish except as part of longer sentences. Usually the copula is dropped.
++ *Ainmhí an coinín a bhíonn beo ar fhéar.*
++ *Fear (é) Dónall a bhfuil tréan airgid aige.*
++ *Ciarógaí iad a bhíonn iontach fairsing sa tsamhradh.*
+
+#### 3.3.2 Identification Sentences
+The copula is often dropped in identification sentences in the Present Tense.
+
+| Present                                 | Past                           |
+| --------------------------------------- | ------------------------------ |
+| *(Is é) Pádraig an gréasaí*             | *Badh é/Ba Pádraig an gréasaí* |
+| *(Is é) Anocht Oíche Nollag*            | *Badh é/Ba aréir Oíche Nollag* |
+| *(Is í) An bhean is óige an doc(h)túir* | *Badh í/Ba an bhean ab óige an doc(h)túir*                               |
+
+Often *atá/a bhí i* is found in sentences like those above too. When those are used, often the copula and pronoun are left out completely in both tenses.
+
+|                                              |                                                     |
+| -------------------------------------------- | --------------------------------------------------- |
+| *(Is é) Pádraig atá ina ghréasaí*            | *(Badh é/Ba) Pádraig a bhí ina ghréasaí*            |
+| *(Is é) Oíche Nollag atá anocht*             | *(Badh é/Ba) Oíche Nollag a bhí aréir ann*          |
+| *(Is í) an bhean is óige atá ina doc(h)túir* | *(Badh í/Ba) an bhean ab óige a bhí ina doc(h)túir* | 
+
+#### 3.3.3 The copula before *seo/sin/siod*
+The copula is not found before *seo/sin/siod* (siúd), normally, except in the Past Tense.
+
+|                          |                             |
+| ------------------------ | --------------------------- |
+| *Sin an teach*           | *Ba sin an teach*           |
+| *Seo an leabhar úr*      | *Ba seo an leabhar úr*      |
+| *Siod an teach s'aige*   | *Ba siod an teach s'aige*   |
+| *(Is é) Seo an áit aige* | *Badh é/Ba sin an áit aige* |
+| *(Is í) Seo mo cheannsa* | *Badh í/Ba sin mo cheannsa* | 
+
+#### Notes
++ 1. *badh é/í* is said and *ba yé/ba yí.*
++ 2.
+	+ (a) *Is* is said as a slender *s* (i) before *é, í, iad, eadh* and *ioma(í),* (ii) before the slender consonants *d, t, l* and *n,* normally: *'sé, 'siad, 's deise, 's teo, 's leithne, 's nimhní* etc.
+	+ (b) The *s* is broad in all other cases: *'s mé/tú/muid, 's cuma/doiligh/f(h)earr/iontach* etc. and in *'s liom/leat/leis* etc.
+
+### 3.4 The negative sentence
+The copula has the following negative forms in the dialect.
+
+| Present     | Past/Conditional mood |
+| ----------- | --------------------- |
+| *ní, ní h-* | *níor, níorbh*        |
+| *cha, chan* | *char, charbh*        | 
+
+#### 3.4.1 Rules of use
+(a) The Present is expressed mostly with *Ní/Chan* or with *Ní/Chan* plus *atá i* and The Past with the use of *Ní/Chan* plus *a bhí i,* as below.
+
+|                                |                                    |
+| ------------------------------ | ---------------------------------- |
+| *Ní/Chan múinteoir Máire*      | *Ní/Chan múinteoir a bhí i Máire*  |
+| *Ní/Chan doc(h)túir atá ionam* | *Ní/Chan doc(h)túir a bhí ionamsa* |
+| *Ní/Chan Pádraig an gréasaí*   | *Ní/Chan Pádraig a bhí ina ghréasaí*                                   |
+
+(b) The forms with *r/rbh* aren't used right before nouns. They are used:
++ (i) when there's an adjective after the copula.
++ (ii) When the pronouns *é, í, iad,* and *ea(dh)* or an adjective/form of an adjective starting with *f* + a vowel is in the copular sentence.
+
+|                                       |                                      |
+| ------------------------------------- | ------------------------------------ |
+| *Ní/Cha doiligh éirí ar maidin*       | *Níor/Char dhoiligh éirí ar maidin*  |
+| *Ní/Cha maith liom é*                 | *Níor/Char maith liom é*             |
+| *Ní (hé)/Chan (é) Pádraig an gréasaí* | *Níorbh/Charbh é Pádraig an gréasaí* |
+| *Ní (hé)/Chan (é) seo an áit aige*    | *Níorbh/Charbh é sin an áit aige*    |
+| *Ní fearr/Chan fhearr dúin é*         | *Níorbh/Charbh fhearr dúinn é*       | 
+
