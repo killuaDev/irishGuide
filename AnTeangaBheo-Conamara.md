@@ -237,7 +237,7 @@ Broad *l* = dental /l/ in all positions normally: *balla, geall, lá, slán.* Bu
 Slender *l* = Palatal /L´/ in the following positions usually: at the start of a word *(leas),* following *s (sliabh),* before *t (ceilt)*, where *ll* is in the spelling *(buille).* Alveolar /l´/ in other positions: *buile, cáil, cleas.* /l´/ in *le* (*liom,* etc), *tuilleadh (tile),* and in loans like *lad.*
 
 ### 3.13 Broad *mh*
-Broad *mh* = /v/: *mhair, fómhar, lámh.* There is little friction except before a consonant: *samhradh* /savr;e/ (2.10).
+Broad *mh* = /v/: *mhair, fómhar, lámh.* There is little friction except before a consonant: *samhradh* /savrə/ (2.10).
 
 Silent *mh* in *clúmhach (clúch), cumha (cú), cumhachta (cúchta).* Also in *slachtmhar (slachtar).*
 
@@ -890,24 +890,24 @@ Below are the most common question words in this dialect and samples of their us
 
 ## 13 Regular verbs
 ### 13.1 The suffix *-idh*
-*-idh* = /;e/ in the 3rd singular future, conjugation 1: *brisfidh* is said as *brise,* *caithfidh* as *caithe,* and so on.
+*-idh* = /ə/ in the 3rd singular future, conjugation 1: *brisfidh* is said as *brise,* *caithfidh* as *caithe,* and so on.
 
 *-idh* is silent in the 3rd singular future, conjugation 2: *ceannóidh* is said as *ceannó, imeoidh* as *imeó,* and so on.
 
 ### 13.2 The suffix *-igh*
-*-igh* = /;e/ in the 3rd singular past (and 2nd singular imperative), conjugation 2: *cheannaigh* is said as *cheanna,* *d'imigh* as *d'ime,* and so on.
+*-igh* = /ə/ in the 3rd singular past (and 2nd singular imperative), conjugation 2: *cheannaigh* is said as *cheanna,* *d'imigh* as *d'ime,* and so on.
 
 *-igh* is silent in *dóigh, léigh,* etc. (first conjugation). *suigh* is pronounced as /si/ normally.
 
 ### 13.3 The suffix *-adh* (3rd singular)
-*-adh* = /;ex/ in the 3rd singular conditional: *bhrisfeadh* is said as *bhriseach*, *chaithfeadh* as *chaitheach,* and so on. It's the same with the habitual past and in the imperative.
+*-adh* = /əx/ in the 3rd singular conditional: *bhrisfeadh* is said as *bhriseach*, *chaithfeadh* as *chaitheach,* and so on. It's the same with the habitual past and in the imperative.
 
 In conjugation 2 *-dh* = /x/: *cheannódh* is said as *cheannóch,* *cheannaíodh* as *cheannaíoch,* and so on.
 
-It's typical to have /t;'/ instead of /x/ in those forms before the proonouns *sé, sí, sibh, siad;* e.g. *chasfadh sé* is said as *chasat sé,* *bheadh sé* as *bheit sé.* This is the same /t;'/ as in *thit sé;* it could also be written as /t̝/. Sometimes the /x/ is kept in this position.
+It's typical to have /t´/ instead of /x/ in those forms before the proonouns *sé, sí, sibh, siad;* e.g. *chasfadh sé* is said as *chasat sé,* *bheadh sé* as *bheit sé.* This is the same /t´/ as in *thit sé;* it could also be written as /t̝/. Sometimes the /x/ is kept in this position.
 
 ### 13.4 The suffix *-adh* (autonomous)
-*-adh* = /u:/ normally in the past autonomous, conjugation 1: *casadh (orm é)* is said as *casú, briseadh (é)* as *brisiú,* and so on. Sometimes -/;ev/ is used instead of -/u:/ in Cois Fharraige.
+*-adh* = /u:/ normally in the past autonomous, conjugation 1: *casadh (orm é)* is said as *casú, briseadh (é)* as *brisiú,* and so on. Sometimes -/əv/ is used instead of -/u:/ in Cois Fharraige.
 
 In conjugation 2 *-dh* = /v/: *ceannaíodh* is said as *ceannaíobh.*
 
@@ -919,14 +919,14 @@ In the 3rd singular future, conjugation 1, *f* is pronounced as follows:
 devoicing on *b, bh, d, g, mh: féadfaidh (féata), ligfidh (lice), scuabfaidh (scuapa);*  
 silent after *c, ch, p, s, t, th: caithfidh (caithe), ceapfaidh (ceapa), feicfidh (feice).*
 
-the /h/ is often dropped, especially in Cois Fharraige; e.g. *ólfaidh* is said as /o:l;e/ not as /o:lh;e/ But the devoicing (on *b, bh* etc.) always occurs.
+the /h/ is often dropped, especially in Cois Fharraige; e.g. *ólfaidh* is said as /o:lə/ not as /o:lhə/ But the devoicing (on *b, bh* etc.) always occurs.
 
 ### 13.6 *f* in the autonomous future
-In Carna *f* = /f;'/ normally in the autonomous future, conjugation 1; e.g. in *brisfear, ligfear* (no devoicing), *ólfar.* Sometimes it's a broad /f/
+In Carna *f* = /f´/ normally in the autonomous future, conjugation 1; e.g. in *brisfear, ligfear* (no devoicing), *ólfar.* Sometimes it's a broad /f/
 
 In Cois Fharraige the *f* is often pronounced as in the 3rd singular; i.e. *brisfear* is said as *brisear, ligfear* as *licear* and so on. Sometimes there's a /a:/ in the suffix: *briseár, liceár.*
 
-In conjugation 2 *f* = /f;'/ in Carna: *ceannófar* is said as *ceannóifear.* In Cois Fharraige the form without *f* is most common: *ceannár.*
+In conjugation 2 *f* = /f´/ in Carna: *ceannófar* is said as *ceannóifear.* In Cois Fharraige the form without *f* is most common: *ceannár.*
 
 ### 13.7 *f* in the conditional
 *f* in the conditional is pronounced like in the future.
@@ -998,14 +998,14 @@ These samples show the formation of verbal adjectives in conjugation 1:
 + *casta, briste* (*s*)
 + *dóite, suite* (vowel)
 
-As well as *curtha*, the version *curta* exists. Instead of -/i:/, -/i:h;e/ is usually used in Carna: *ceaptha* is said as *ceapaíthe*, *fágtha* as *fácaíthe.*
+As well as *curtha*, the version *curta* exists. Instead of -/i:/, -/i:hə/ is usually used in Carna: *ceaptha* is said as *ceapaíthe*, *fágtha* as *fácaíthe.*
 
 ### 13.13 Verbal adjectives, conjugation 2
 These samples show the formation of verbal adjectives in conjugation 2:
 + *ceannaithe (ceannaí)*
 + *osclaithe (osclaí)*
 
--/i:h;e/ is used instead of -/i:/ in Carna normally: *ceannaithe* is said as *ceannaíthe.* As well as *osclaithe* the version *oscailte* exists; in the same way, *ceangailte* as well as *ceanglaithe.* Broad *t* in *foghlamta* (*fólamta* or *feolamta*).
+-/i:hə/ is used instead of -/i:/ in Carna normally: *ceannaithe* is said as *ceannaíthe.* As well as *osclaithe* the version *oscailte* exists; in the same way, *ceangailte* as well as *ceanglaithe.* Broad *t* in *foghlamta* (*fólamta* or *feolamta*).
 
 ### 13.14 Verbal Nouns
 There's a good few verbal nouns in the dialect which have a different form than in the standard. Here are some of the most common samples:
