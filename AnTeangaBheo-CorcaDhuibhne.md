@@ -1955,3 +1955,138 @@ For example:
 
 **Verbal noun:** *téanachtaint*
 
+### 8.10 Verb suffixes
+There are interesting traits pertaining to certain suffixes:
+
+#### (i) Suffixes starting with *f* or *t*
+The *f* is broad in the suffixes below (but *-fí* is said by certain people instead of *-faí*):
+
+|        |              |                |
+| ------ | ------------ | -------------- |
+| *-fá*  | *chuirfá*    | *cheannófá*    |
+| *-faí* | *c(h)uirfaí* | *c(h)eannófaí* |
+| *-far* | *cuirfar*    | *ceannófar*    | 
+
+The *t* is normally broad in these below, but *-tí* can be said instead of *-taí* and sometimes *-tear* is said instead of *-tar.*
+
+|          |              |                                                |
+| -------- | ------------ | ---------------------------------------------- |
+| *-tá*    | *chuirtá*    | *cheannaítá*                                   |
+| *-t(a)í* | *c(h)uirtaí* | *c(h)eannaítaí* (or *c(h)uirtí, c(h)eannaítí*) |
+| *-tar*   | *cuirtar*    | *ceanaíotar/ceannaítear*                       | 
+
+#### (ii) The suffixes *-idh, igh*
+*-idh* is said as *-ig* in the future tense (e.g. *cuirhig, glaehig, ceannóig*), and so is *-igh* in the past tense (e.g. *ghlaeig, cheannaig*):
++ *Déanhaig Máire é.*
++ *Déanhaig so é.*
++ *Ceannóig duine éigin é.*
++ *Ghlaeig Máire orm.*
++ *Cheannaig duine éigin é.*
+
+The *g* is dropped normally when there's a personal pronoun as a subject (except for monosyllabic forms like *ghlaeig*):
+
+|              |              |
+| ------------ | ------------ |
+| *glaehe sé*  | *ghlaeig sé* |
+| *cuirhe sé*  | *luig sé*    |
+| *ceannó sé*  | *dhóig sé*   |
+| *cheanna sé* | *bhuaig sé*  | 
+
+The *-g* is dropped in the monosyllabic forms of the irregular verbs however:
++ *be sé*
++ *ragha sé*
++ *geó sé*
++ *faighe sé*
++ *chua sé*
+
+#### (iii) The suffixes *-imíd, -imís*
+Long vowels are in the second syllable:
+
+|            |                 |                  |
+| ---------- | --------------- | ---------------- |
+| *-imíd*    | *cuirimíd*      | *ceannóimíd*     |
+| *-imís(t)* | *chuirfimís(t)* | *cheannóimís(t)* | 
+
+#### (iv) The suffixes *-amair, -abhair, -adar*
+The *r* is slender in the first two of these:
+
+|           |                |                  |
+| --------- | -------------- | ---------------- |
+| *-amair*  | *chuireamair*  | *cheannaíomair*  |
+| *-abhair* | *chuireabhair* | *cheannaíobhair* | 
+
+The *r* is broad in the third one however:
+
+|         |              |                |
+| ------- | ------------ | -------------- |
+| *-adar* | *chuireadar* | *cheannaíodar* | 
+
+#### (v) Suffixes ending in *-s*
+*s* can be added to *-tar*:
++ *cuirtar/cuirtars*
++ *ceannaíotar/ceannaíotars*
+
+It seems that's not done with *-far*.
+
+*-thas* (autonomous) can be made into *-thars*
++ *bhíothas/bhíothars*
++ *chuathas/chuathars*
+
+### 8.11 The verb particles
+The forms ending in *r* in the past tense are dying out:
+
+|                     | Old system                | New system                |
+| ------------------- | ------------------------- | ------------------------- |
+| **Negative**        | *Ní bhacaim leis.*        | *Ní bhacaim leis.*        |
+|                     | *Níor bhacas leis.*       | *Ní bhacas leis.*         |
+| **Question**        | *An mbuaileann tú leis*   | *An mbuaileann tú leis?*  |
+|                     | *Ar bhuailis leis?*       | *An mbuailis leis?*       |
+| **Indirect speech** | *Déarfainn go gcuireann.* | *Déarfainn go gcuireann.* |
+|                     | *Déarfainn gur chuir.*    | *Déarfainn go gcuir.*     |
+|                     |                           | *Déarfainn go chuir.*     |
+|                     | *Déarfainn ná cuirhig.*   | *Déarfainn ná cuirhig.*   |
+|                     | *Déarfainn nár chuir*     | *Déarfainn ná chuir.*     | 
+
+The same development has occurred on the forms of the copula.
+
+### 8.12 The compound tenses
+The compound tenses convey a continuous or perfect sense. Here they are:
+
+**(i) Leanúnach:** *tá* + subject + *a(g)* + verbal noun
++ *táim a' lorg mo chuid eochracha*
++ *tá siad a' bailiú airgid*
++ *bhíos ag ithe mo dhínnéir*
++ *bhíodar ag obair go dian*
+
+*id* is used instead of *ag* with *iarraig*
++ *bhíos id iarraig é a dhéanamh* (or *id iarra é a dhéanamh*)
+  
+**(ii) Perfect I:** *tá* + subject + verbal adjective (with intransitive verb mostly):
++ *tá sé imithe abhaile*
++ *níl sí tacaithe fós*
++ *tá sé gafa ó thuaidh cheana*
++ *tá sí glaeite thar n-ais cúpla uair*
+
+Sometimes with transitive verbs
++ *tá an bhó bertha*
+
+**(iii) Perfect II:** *tá* + object of the verbal noun + verbal adjective + *aige* (= ag) + subject of the verbal adjective (with transitive verbs):
++ *tá tig ceannaithe aige*
++ *tá sé ceannaithe 'ge duine ó Thrá Lí*
++ *be sé déanta acu fén am so*
++ *níl sé déanta fós acu*
++ *bhí sé cloiste agam go mbeadh*
+
+The object can be dropped before certain verbs:
++ *tá ite agam*
+
+**(iv) Perfect III:** *tá* + subject + *tréis* + verbal noun (with certain intransitive verbs, e.g. *teacht, bheith,* and sometimes with other verbs):
++ *tá sé tréis teacht ón nDaingean*
++ *bhí sí tréis bheith san óispidéal*
+
+A negative version of this can be made by replacing *tréis* with *gan*:
++ *tá sé fós gan teacht*
+
+Perfect III and the continuous structure can be used together:
++ *táim tréis bheith a' glanadh an urláir*
++ *bhíomair tréis bheith a' tarrac potaí*
